@@ -1,0 +1,680 @@
+{
+  "source_file": "ia72.pdf",
+  "metadata": {
+    "file": "ia72.pdf",
+    "pages": 10,
+    "title": "Некоторые оценки для характеристических функций с применением кк уточнению неравенства Мизеса",
+    "author": "И. Г. Шевцова"
+  },
+  "extraction_info": {
+    "keywords_used": [
+      "неравенств",
+      "неравенства",
+      "оценка",
+      "оценки",
+      "неравенство",
+      "оценку",
+      "оценивается",
+      "≤",
+      "≥",
+      "граница"
+    ],
+    "total_sentences_found": 61,
+    "total_text_length": 29534
+  },
+  "sentences": [
+    {
+      "text": "Аннотация: Построены новые оценки для модулей характеристических функций распределений, име-",
+      "page": 1,
+      "start_position": 205,
+      "end_position": 297,
+      "length": 92,
+      "matched_keywords": [
+        "оценки"
+      ]
+    },
+    {
+      "text": "ющих моменты порядка 2 + δ, 0 < δ ⩽1. Уточнено моментное неравенство Мизеса для решетчатых",
+      "page": 1,
+      "start_position": 298,
+      "end_position": 388,
+      "length": 90,
+      "matched_keywords": [
+        "неравенств",
+        "неравенство"
+      ]
+    },
+    {
+      "text": "δ = 1 для |f(t)| справедлива оценка",
+      "page": 1,
+      "start_position": 1584,
+      "end_position": 1619,
+      "length": 35,
+      "matched_keywords": [
+        "оценка"
+      ]
+    },
+    {
+      "text": "из которого вытекает еще одно уточнение оценки",
+      "page": 1,
+      "start_position": 2162,
+      "end_position": 2208,
+      "length": 46,
+      "matched_keywords": [
+        "оценки"
+      ]
+    },
+    {
+      "text": "неравенства Ляпунова не меньше единицы и может",
+      "page": 1,
+      "start_position": 2316,
+      "end_position": 2362,
+      "length": 46,
+      "matched_keywords": [
+        "неравенств",
+        "неравенства"
+      ]
+    },
+    {
+      "text": "Появление оценки (3) оказало значительное",
+      "page": 2,
+      "start_position": 3065,
+      "end_position": 3106,
+      "length": 41,
+      "matched_keywords": [
+        "оценки"
+      ]
+    },
+    {
+      "text": "константы C в широко известном неравенстве",
+      "page": 2,
+      "start_position": 3151,
+      "end_position": 3193,
+      "length": 42,
+      "matched_keywords": [
+        "неравенств"
+      ]
+    },
+    {
+      "text": "А именно использование более точной оценки (3)",
+      "page": 2,
+      "start_position": 3471,
+      "end_position": 3517,
+      "length": 46,
+      "matched_keywords": [
+        "оценки"
+      ]
+    },
+    {
+      "text": "жоранту константы C в этом неравенстве с 1, 301 [6]",
+      "page": 2,
+      "start_position": 3564,
+      "end_position": 3615,
+      "length": 51,
+      "matched_keywords": [
+        "неравенств"
+      ]
+    },
+    {
+      "text": "утверждение неравенства (2)).",
+      "page": 2,
+      "start_position": 3859,
+      "end_position": 3888,
+      "length": 29,
+      "matched_keywords": [
+        "неравенств",
+        "неравенства"
+      ]
+    },
+    {
+      "text": "отыскании верхней асимптотической оценки кон-",
+      "page": 2,
+      "start_position": 3933,
+      "end_position": 3978,
+      "length": 45,
+      "matched_keywords": [
+        "оценки"
+      ]
+    },
+    {
+      "text": "ность использования оценки (4) и приводимой ни-",
+      "page": 2,
+      "start_position": 4171,
+      "end_position": 4218,
+      "length": 47,
+      "matched_keywords": [
+        "оценки"
+      ]
+    },
+    {
+      "text": "Неравенство Берри–Эссеена является наиболее",
+      "page": 2,
+      "start_position": 4234,
+      "end_position": 4277,
+      "length": 43,
+      "matched_keywords": [
+        "неравенств",
+        "неравенство"
+      ]
+    },
+    {
+      "text": "тически была обобщена оценка Правитца (4) для",
+      "page": 2,
+      "start_position": 4984,
+      "end_position": 5029,
+      "length": 45,
+      "matched_keywords": [
+        "оценка"
+      ]
+    },
+    {
+      "text": "Применяя последний к неравенству сглаживания",
+      "page": 2,
+      "start_position": 5289,
+      "end_position": 5333,
+      "length": 44,
+      "matched_keywords": [
+        "неравенств"
+      ]
+    },
+    {
+      "text": "оценки константы в аналоге неравенства Берри–",
+      "page": 2,
+      "start_position": 5383,
+      "end_position": 5428,
+      "length": 45,
+      "matched_keywords": [
+        "неравенств",
+        "неравенства",
+        "оценки"
+      ]
+    },
+    {
+      "text": "Доказательство неравенства (7) также",
+      "page": 2,
+      "start_position": 5485,
+      "end_position": 5521,
+      "length": 36,
+      "matched_keywords": [
+        "неравенств",
+        "неравенства"
+      ]
+    },
+    {
+      "text": "еще одну оценку, на которую существенно опирает-",
+      "page": 2,
+      "start_position": 5606,
+      "end_position": 5654,
+      "length": 48,
+      "matched_keywords": [
+        "оценку"
+      ]
+    },
+    {
+      "text": "наилучшая в этом смысле оценка имеет вид (для",
+      "page": 2,
+      "start_position": 6076,
+      "end_position": 6121,
+      "length": 45,
+      "matched_keywords": [
+        "оценка"
+      ]
+    },
+    {
+      "text": "в то время как широко известное неравенство Ми-",
+      "page": 2,
+      "start_position": 6481,
+      "end_position": 6528,
+      "length": 47,
+      "matched_keywords": [
+        "неравенств",
+        "неравенство"
+      ]
+    },
+    {
+      "text": "зеса [11] устанавливает лишь более грубую оценку",
+      "page": 2,
+      "start_position": 6529,
+      "end_position": 6577,
+      "length": 48,
+      "matched_keywords": [
+        "оценку"
+      ]
+    },
+    {
+      "text": "Некоторые оценки для характеристических функций с применением к уточнению неравенства Мизеса",
+      "page": 3,
+      "start_position": 6656,
+      "end_position": 6748,
+      "length": 92,
+      "matched_keywords": [
+        "неравенств",
+        "неравенства",
+        "оценки"
+      ]
+    },
+    {
+      "text": "Как известно, неравенство Мизеса является в опре-",
+      "page": 3,
+      "start_position": 6749,
+      "end_position": 6798,
+      "length": 49,
+      "matched_keywords": [
+        "неравенств",
+        "неравенство"
+      ]
+    },
+    {
+      "text": "В остальных же случаях неравенство (10) строгое.",
+      "page": 3,
+      "start_position": 6987,
+      "end_position": 7035,
+      "length": 48,
+      "matched_keywords": [
+        "неравенств",
+        "неравенство"
+      ]
+    },
+    {
+      "text": "|f(t)|, устанавливаемых неравенствами (7), (11) и",
+      "page": 3,
+      "start_position": 7424,
+      "end_position": 7473,
+      "length": 49,
+      "matched_keywords": [
+        "неравенств",
+        "неравенства"
+      ]
+    },
+    {
+      "text": "по сравнению с (9) неравенство:",
+      "page": 3,
+      "start_position": 7828,
+      "end_position": 7859,
+      "length": 31,
+      "matched_keywords": [
+        "неравенств",
+        "неравенство"
+      ]
+    },
+    {
+      "text": "верхней оценки, имеющей вид полинома, необхо-",
+      "page": 3,
+      "start_position": 8821,
+      "end_position": 8866,
+      "length": 45,
+      "matched_keywords": [
+        "оценки"
+      ]
+    },
+    {
+      "text": "добиться выполнения неравенства cos x ⩽1 −ax 2",
+      "page": 3,
+      "start_position": 9061,
+      "end_position": 9107,
+      "length": 46,
+      "matched_keywords": [
+        "неравенств",
+        "неравенства"
+      ]
+    },
+    {
+      "text": "такое, что для всех x ∈R выполняется неравенство",
+      "page": 3,
+      "start_position": 9332,
+      "end_position": 9380,
+      "length": 48,
+      "matched_keywords": [
+        "неравенств",
+        "неравенство"
+      ]
+    },
+    {
+      "text": "рантирующее выполнение указанного неравенства,",
+      "page": 3,
+      "start_position": 9454,
+      "end_position": 9500,
+      "length": 46,
+      "matched_keywords": [
+        "неравенств",
+        "неравенства"
+      ]
+    },
+    {
+      "text": "справедливо неравенство",
+      "page": 3,
+      "start_position": 9833,
+      "end_position": 9856,
+      "length": 23,
+      "matched_keywords": [
+        "неравенств",
+        "неравенство"
+      ]
+    },
+    {
+      "text": "Некоторые оценки для характеристических функций с применением к уточнению неравенства Мизеса",
+      "page": 5,
+      "start_position": 12924,
+      "end_position": 13016,
+      "length": 92,
+      "matched_keywords": [
+        "неравенств",
+        "неравенства",
+        "оценки"
+      ]
+    },
+    {
+      "text": "фигурирующих в неравенстве (13) функций мож-",
+      "page": 5,
+      "start_position": 13074,
+      "end_position": 13118,
+      "length": 44,
+      "matched_keywords": [
+        "неравенств"
+      ]
+    },
+    {
+      "text": "но считать, что x > 0 (для x = 0 неравенство (13)",
+      "page": 5,
+      "start_position": 13119,
+      "end_position": 13168,
+      "length": 49,
+      "matched_keywords": [
+        "неравенств",
+        "неравенство"
+      ]
+    },
+    {
+      "text": "Тогда неравенство (13) для указанных x равносиль-",
+      "page": 5,
+      "start_position": 13276,
+      "end_position": 13325,
+      "length": 49,
+      "matched_keywords": [
+        "неравенств",
+        "неравенство"
+      ]
+    },
+    {
+      "text": "Условие a(θ) ⩽1/2 равносильно неравенству",
+      "page": 5,
+      "start_position": 14418,
+      "end_position": 14459,
+      "length": 41,
+      "matched_keywords": [
+        "неравенств"
+      ]
+    },
+    {
+      "text": "лось показать справедливость неравенства (13) при",
+      "page": 6,
+      "start_position": 16812,
+      "end_position": 16861,
+      "length": 49,
+      "matched_keywords": [
+        "неравенств",
+        "неравенства"
+      ]
+    },
+    {
+      "text": "образом, при x > 2π неравенство (13) тривиально.",
+      "page": 6,
+      "start_position": 17178,
+      "end_position": 17226,
+      "length": 48,
+      "matched_keywords": [
+        "неравенств",
+        "неравенство"
+      ]
+    },
+    {
+      "text": "Некоторые оценки для характеристических функций с применением к уточнению неравенства Мизеса",
+      "page": 7,
+      "start_position": 18719,
+      "end_position": 18811,
+      "length": 92,
+      "matched_keywords": [
+        "неравенств",
+        "неравенства",
+        "оценки"
+      ]
+    },
+    {
+      "text": "в силу неравенства Ляпунова.",
+      "page": 7,
+      "start_position": 19945,
+      "end_position": 19973,
+      "length": 28,
+      "matched_keywords": [
+        "неравенств",
+        "неравенства"
+      ]
+    },
+    {
+      "text": "Оценки для характеристических",
+      "page": 7,
+      "start_position": 19976,
+      "end_position": 20005,
+      "length": 29,
+      "matched_keywords": [
+        "оценки"
+      ]
+    },
+    {
+      "text": "условиям (1). Тогда для всех t ∈R справедливы оценки",
+      "page": 7,
+      "start_position": 20112,
+      "end_position": 20164,
+      "length": 52,
+      "matched_keywords": [
+        "оценки"
+      ]
+    },
+    {
+      "text": "элементарное неравенство",
+      "page": 7,
+      "start_position": 20815,
+      "end_position": 20839,
+      "length": 24,
+      "matched_keywords": [
+        "неравенств",
+        "неравенство"
+      ]
+    },
+    {
+      "text": "Неравенство (22) вытекает из (21) с учетом оцен-",
+      "page": 7,
+      "start_position": 20941,
+      "end_position": 20989,
+      "length": 48,
+      "matched_keywords": [
+        "неравенств",
+        "неравенство"
+      ]
+    },
+    {
+      "text": "условиям (1). Тогда для всех t ∈R справедливы оценки",
+      "page": 8,
+      "start_position": 21363,
+      "end_position": 21415,
+      "length": 52,
+      "matched_keywords": [
+        "оценки"
+      ]
+    },
+    {
+      "text": "σ2 > 0, в этом случае оценки становятся более",
+      "page": 8,
+      "start_position": 22695,
+      "end_position": 22740,
+      "length": 45,
+      "matched_keywords": [
+        "оценки"
+      ]
+    },
+    {
+      "text": "t = 0 неравенство (23) очевидно. Обозначим",
+      "page": 8,
+      "start_position": 23093,
+      "end_position": 23135,
+      "length": 42,
+      "matched_keywords": [
+        "неравенств",
+        "неравенство"
+      ]
+    },
+    {
+      "text": "Тогда последнее неравенство примет вид",
+      "page": 8,
+      "start_position": 23394,
+      "end_position": 23432,
+      "length": 38,
+      "matched_keywords": [
+        "неравенств",
+        "неравенство"
+      ]
+    },
+    {
+      "text": "Некоторые оценки для характеристических функций с применением к уточнению неравенства Мизеса",
+      "page": 9,
+      "start_position": 24105,
+      "end_position": 24197,
+      "length": 92,
+      "matched_keywords": [
+        "неравенств",
+        "неравенства",
+        "оценки"
+      ]
+    },
+    {
+      "text": "Неравенства (24) доказываются аналогично (21)",
+      "page": 9,
+      "start_position": 24198,
+      "end_position": 24243,
+      "length": 45,
+      "matched_keywords": [
+        "неравенств",
+        "неравенства"
+      ]
+    },
+    {
+      "text": "казательства позволяет заключить, что неравенства",
+      "page": 9,
+      "start_position": 24299,
+      "end_position": 24348,
+      "length": 49,
+      "matched_keywords": [
+        "неравенств",
+        "неравенства"
+      ]
+    },
+    {
+      "text": "тервалах, чем неравенства из теоремы 2.",
+      "page": 9,
+      "start_position": 24397,
+      "end_position": 24436,
+      "length": 39,
+      "matched_keywords": [
+        "неравенств",
+        "неравенства"
+      ]
+    },
+    {
+      "text": "устанавливаемых теоремами 2, 3 и неравенством",
+      "page": 9,
+      "start_position": 24491,
+      "end_position": 24536,
+      "length": 45,
+      "matched_keywords": [
+        "неравенств",
+        "неравенство"
+      ]
+    },
+    {
+      "text": "то можно заменить неравенство (25)на более грубое",
+      "page": 9,
+      "start_position": 25472,
+      "end_position": 25521,
+      "length": 49,
+      "matched_keywords": [
+        "неравенств",
+        "неравенство"
+      ]
+    },
+    {
+      "text": "Уточнение неравенства Мизеса",
+      "page": 9,
+      "start_position": 25814,
+      "end_position": 25842,
+      "length": 28,
+      "matched_keywords": [
+        "неравенств",
+        "неравенства"
+      ]
+    },
+    {
+      "text": "целых s ⩾2 имеют место неравенства",
+      "page": 9,
+      "start_position": 26061,
+      "end_position": 26095,
+      "length": 34,
+      "matched_keywords": [
+        "неравенств",
+        "неравенства"
+      ]
+    },
+    {
+      "text": "Следующее утверждение, уточняющее неравенство",
+      "page": 9,
+      "start_position": 26161,
+      "end_position": 26206,
+      "length": 45,
+      "matched_keywords": [
+        "неравенств",
+        "неравенство"
+      ]
+    },
+    {
+      "text": "s = 2 + δ с 0< δ ⩽1 справедлива оценка",
+      "page": 9,
+      "start_position": 26311,
+      "end_position": 26349,
+      "length": 38,
+      "matched_keywords": [
+        "оценка"
+      ]
+    },
+    {
+      "text": "целях уточнения неравенства Мизеса и за постоян-",
+      "page": 10,
+      "start_position": 27930,
+      "end_position": 27978,
+      "length": 48,
+      "matched_keywords": [
+        "неравенств",
+        "неравенства"
+      ]
+    },
+    {
+      "text": "2. Золотарёв В. М. Некоторые неравенства теории ве-",
+      "page": 10,
+      "start_position": 28163,
+      "end_position": 28214,
+      "length": 51,
+      "matched_keywords": [
+        "неравенств",
+        "неравенства"
+      ]
+    },
+    {
+      "text": "6. Золотарёв В. М. Абсолютная оценка остаточного чле-",
+      "page": 10,
+      "start_position": 28749,
+      "end_position": 28802,
+      "length": 53,
+      "matched_keywords": [
+        "оценка"
+      ]
+    }
+  ]
+}

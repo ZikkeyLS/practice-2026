@@ -1,0 +1,825 @@
+{
+  "source_file": "tm259.pdf",
+  "metadata": {
+    "file": "tm259.pdf",
+    "pages": 15,
+    "title": "Интегральные неравенства Либа–Тирринга и точные оценки размерноразмерности аттрактора уравнений Навье–Стокса с трением",
+    "author": "А. А. Ильин"
+  },
+  "extraction_info": {
+    "keywords_used": [
+      "неравенств",
+      "неравенства",
+      "оценка",
+      "оценки",
+      "неравенство",
+      "оценку",
+      "оценивается",
+      "≤",
+      "≥",
+      "граница"
+    ],
+    "total_sentences_found": 78,
+    "total_text_length": 31494
+  },
+  "sentences": [
+    {
+      "text": "Интегральные неравенства Либа–Тирринга",
+      "page": 1,
+      "start_position": 109,
+      "end_position": 147,
+      "length": 38,
+      "matched_keywords": [
+        "неравенств",
+        "неравенства"
+      ]
+    },
+    {
+      "text": "и точные оценки размерности аттрактора",
+      "page": 1,
+      "start_position": 148,
+      "end_position": 186,
+      "length": 38,
+      "matched_keywords": [
+        "оценки"
+      ]
+    },
+    {
+      "text": "ческой области площади порядка α−1, α →0. Получены оценки размерности аттрактора, которые",
+      "page": 1,
+      "start_position": 361,
+      "end_position": 450,
+      "length": 89,
+      "matched_keywords": [
+        "оценки"
+      ]
+    },
+    {
+      "text": "периодической прямоугольной области Ω= [0, L/α] × [0, L], где 0 < α ≤1.",
+      "page": 1,
+      "start_position": 945,
+      "end_position": 1016,
+      "length": 71,
+      "matched_keywords": [
+        "≤"
+      ]
+    },
+    {
+      "text": "Оценки размерности аттрактора принято выражать в терминах безразмерного числа G",
+      "page": 1,
+      "start_position": 1553,
+      "end_position": 1632,
+      "length": 79,
+      "matched_keywords": [
+        "оценки"
+      ]
+    },
+    {
+      "text": "Известны следующие оценки размерности аттрактора двумерной системы Навье–Стокса.",
+      "page": 1,
+      "start_position": 1712,
+      "end_position": 1792,
+      "length": 80,
+      "matched_keywords": [
+        "оценки"
+      ]
+    },
+    {
+      "text": "Для системы в ограниченной области с условием прилипания справедлива оценка [2]",
+      "page": 1,
+      "start_position": 1793,
+      "end_position": 1872,
+      "length": 79,
+      "matched_keywords": [
+        "оценка"
+      ]
+    },
+    {
+      "text": "c(λΩ) = c(Ω), λ > 0. Явная оценка значения постоянной c была найдена в [6] (см. также [7]):",
+      "page": 2,
+      "start_position": 2389,
+      "end_position": 2480,
+      "length": 91,
+      "matched_keywords": [
+        "оценка"
+      ]
+    },
+    {
+      "text": "Для задачи с периодическими краевыми условиями оценка сверху может быть значительно",
+      "page": 2,
+      "start_position": 2495,
+      "end_position": 2578,
+      "length": 83,
+      "matched_keywords": [
+        "оценка"
+      ]
+    },
+    {
+      "text": "dim F A ≤c G 2/3(ln(1 + G))1/3,",
+      "page": 2,
+      "start_position": 2593,
+      "end_position": 2624,
+      "length": 31,
+      "matched_keywords": [
+        "≤"
+      ]
+    },
+    {
+      "text": "Оценки снизу размерности аттрактора основаны на важном наблюдении [1], что аттрактор",
+      "page": 2,
+      "start_position": 2667,
+      "end_position": 2751,
+      "length": 84,
+      "matched_keywords": [
+        "оценки"
+      ]
+    },
+    {
+      "text": "Весьма вероятно, что оценка (1. 2) для условия прилипания неулучшаема, хотя никаких",
+      "page": 2,
+      "start_position": 2896,
+      "end_position": 2979,
+      "length": 83,
+      "matched_keywords": [
+        "оценка"
+      ]
+    },
+    {
+      "text": "Первой оценкой снизу размерности аттрактора была оценка, полученная в [1], в которой",
+      "page": 2,
+      "start_position": 3025,
+      "end_position": 3109,
+      "length": 84,
+      "matched_keywords": [
+        "оценка"
+      ]
+    },
+    {
+      "text": "соответствующее стационарное решение u Kolm = f Kolm является при λ ≥λ0 неустойчивым",
+      "page": 2,
+      "start_position": 3366,
+      "end_position": 3450,
+      "length": 84,
+      "matched_keywords": [
+        "≥"
+      ]
+    },
+    {
+      "text": "в [13] получена явная оценка сверху размерности аттрактора в задаче Колмогорова:",
+      "page": 2,
+      "start_position": 3675,
+      "end_position": 3755,
+      "length": 80,
+      "matched_keywords": [
+        "оценка"
+      ]
+    },
+    {
+      "text": "Заметим, что G не зависит от α. Заметим также, что оценки сверху и снизу, хотя и являются",
+      "page": 2,
+      "start_position": 3816,
+      "end_position": 3905,
+      "length": 89,
+      "matched_keywords": [
+        "оценки"
+      ]
+    },
+    {
+      "text": "величинами одного порядка по 1/α, существенно отличаются зависимостью от ν: оценка снизу",
+      "page": 2,
+      "start_position": 3906,
+      "end_position": 3994,
+      "length": 88,
+      "matched_keywords": [
+        "оценка"
+      ]
+    },
+    {
+      "text": "от ν не зависит, в то время как оценка сверху растет как ν−2.",
+      "page": 2,
+      "start_position": 3995,
+      "end_position": 4056,
+      "length": 61,
+      "matched_keywords": [
+        "оценка"
+      ]
+    },
+    {
+      "text": "Для периодической задачи с α = 1 (и L = 2π) в работе [11] доказано, что оценка (1. 3)",
+      "page": 2,
+      "start_position": 4057,
+      "end_position": 4142,
+      "length": 85,
+      "matched_keywords": [
+        "оценка"
+      ]
+    },
+    {
+      "text": "ся при λ ≥λ0 неустойчивым, причем размерность неустойчивого многообразия Mu порядка s 2:",
+      "page": 2,
+      "start_position": 4350,
+      "end_position": 4438,
+      "length": 88,
+      "matched_keywords": [
+        "≥"
+      ]
+    },
+    {
+      "text": "dim Mu ≥c 1 s 2. Поскольку соответствующее число G = Gs = ∥fs∥· |Ω|/ν2 = c 2 s 3, то для гло-",
+      "page": 2,
+      "start_position": 4439,
+      "end_position": 4532,
+      "length": 93,
+      "matched_keywords": [
+        "≥"
+      ]
+    },
+    {
+      "text": "dim F As ≥c 1 s 2 = c 3 G 2/3.",
+      "page": 2,
+      "start_position": 4619,
+      "end_position": 4649,
+      "length": 30,
+      "matched_keywords": [
+        "≥"
+      ]
+    },
+    {
+      "text": "где L = 2π, выполняется оценка снизу",
+      "page": 3,
+      "start_position": 5682,
+      "end_position": 5718,
+      "length": 36,
+      "matched_keywords": [
+        "оценка"
+      ]
+    },
+    {
+      "text": "dim F A ≥const · L 2∥rot f∥∞",
+      "page": 3,
+      "start_position": 5719,
+      "end_position": 5747,
+      "length": 28,
+      "matched_keywords": [
+        "≥"
+      ]
+    },
+    {
+      "text": "откуда и следует, что оценка (1. 6) является точной. При этом ν →0, а число s уже более не",
+      "page": 3,
+      "start_position": 5753,
+      "end_position": 5843,
+      "length": 90,
+      "matched_keywords": [
+        "оценка"
+      ]
+    },
+    {
+      "text": "оценки сверху для числа асимптотически определяющих конечномерных проекций (определя-",
+      "page": 3,
+      "start_position": 6010,
+      "end_position": 6095,
+      "length": 85,
+      "matched_keywords": [
+        "оценки"
+      ]
+    },
+    {
+      "text": "аттрактора системы (1. 5) в “большой” области (c α →0) выполняется оценка, пропорциональ-",
+      "page": 3,
+      "start_position": 6273,
+      "end_position": 6362,
+      "length": 89,
+      "matched_keywords": [
+        "оценка"
+      ]
+    },
+    {
+      "text": "dim F A ≤12 L 2∥rot f∥∞",
+      "page": 3,
+      "start_position": 6633,
+      "end_position": 6656,
+      "length": 23,
+      "matched_keywords": [
+        "≤"
+      ]
+    },
+    {
+      "text": "причем на примере обобщенных потоков Колмогорова показывается, что эта оценка точна как",
+      "page": 3,
+      "start_position": 6663,
+      "end_position": 6750,
+      "length": 87,
+      "matched_keywords": [
+        "оценка"
+      ]
+    },
+    {
+      "text": "Оценка сверху основана на формуле Каплана–Йорка для фрактальной размерности, ко-",
+      "page": 3,
+      "start_position": 6777,
+      "end_position": 6857,
+      "length": 80,
+      "matched_keywords": [
+        "оценка"
+      ]
+    },
+    {
+      "text": "торая приводится в разд. 2. Техника оценки m-следа линеаризованного оператора (1. 5) такая",
+      "page": 3,
+      "start_position": 6858,
+      "end_position": 6948,
+      "length": 90,
+      "matched_keywords": [
+        "оценки"
+      ]
+    },
+    {
+      "text": "же, как в [13]. При этом важную роль играют неравенства Либа–Тирринга [18–20, 2] и их",
+      "page": 3,
+      "start_position": 6949,
+      "end_position": 7034,
+      "length": 85,
+      "matched_keywords": [
+        "неравенств",
+        "неравенства"
+      ]
+    },
+    {
+      "text": "ϕiϕj dx = δij. Тогда справедливо неравенство",
+      "page": 3,
+      "start_position": 7287,
+      "end_position": 7331,
+      "length": 44,
+      "matched_keywords": [
+        "неравенств",
+        "неравенство"
+      ]
+    },
+    {
+      "text": "где постоянная c LT не зависит от m и зависит лишь от α. В общем случае c LT ≥const/α,",
+      "page": 4,
+      "start_position": 7524,
+      "end_position": 7610,
+      "length": 86,
+      "matched_keywords": [
+        "≥"
+      ]
+    },
+    {
+      "text": "постоянная c LT не зависит от α и справедлива оценка c N = c LT|N ≤12/π. В общем же случае",
+      "page": 4,
+      "start_position": 7877,
+      "end_position": 7967,
+      "length": 90,
+      "matched_keywords": [
+        "оценка",
+        "≤"
+      ]
+    },
+    {
+      "text": "c LT ≤6/(απ). Эти результаты из [13] приводятся в дополнении (разд. 4).",
+      "page": 4,
+      "start_position": 7968,
+      "end_position": 8039,
+      "length": 71,
+      "matched_keywords": [
+        "≤"
+      ]
+    },
+    {
+      "text": "Пусть St, t ≥0, — полугруппа непрерывных операторов, действующих в гильбертовом",
+      "page": 4,
+      "start_position": 8109,
+      "end_position": 8188,
+      "length": 79,
+      "matched_keywords": [
+        "≥"
+      ]
+    },
+    {
+      "text": "∥St(u) −St(v) −D St(u)(u −v)∥≤h(r)∥u −v∥,",
+      "page": 4,
+      "start_position": 8380,
+      "end_position": 8421,
+      "length": 41,
+      "matched_keywords": [
+        "≤"
+      ]
+    },
+    {
+      "text": "где ∥u −v∥≤r, h(r) →0, r →0, и",
+      "page": 4,
+      "start_position": 8438,
+      "end_position": 8468,
+      "length": 30,
+      "matched_keywords": [
+        "≤"
+      ]
+    },
+    {
+      "text": "обозначим через α1(t, u) ≥α2(t, u) ≥. . . и положим",
+      "page": 4,
+      "start_position": 8796,
+      "end_position": 8847,
+      "length": 51,
+      "matched_keywords": [
+        "≥"
+      ]
+    },
+    {
+      "text": "Для d вида d = k + s, 0 < s ≤1, определим q(d) с помощью линейной интерполяции:",
+      "page": 4,
+      "start_position": 9128,
+      "end_position": 9207,
+      "length": 79,
+      "matched_keywords": [
+        "≤"
+      ]
+    },
+    {
+      "text": "Предположим, что для некоторого целого n > 0 выполнены неравенства q(n) ≥0,",
+      "page": 4,
+      "start_position": 9427,
+      "end_position": 9502,
+      "length": 75,
+      "matched_keywords": [
+        "неравенств",
+        "неравенства",
+        "≥"
+      ]
+    },
+    {
+      "text": "Оценка dim H X ≤d 0 для хаусдорфовой размерности была получена",
+      "page": 5,
+      "start_position": 9682,
+      "end_position": 9744,
+      "length": 62,
+      "matched_keywords": [
+        "оценка",
+        "≤"
+      ]
+    },
+    {
+      "text": "в [2, 21]. Для фрактальной размерности там же было показано, что dim F X ≤cd 0, c > 1.",
+      "page": 5,
+      "start_position": 9745,
+      "end_position": 9831,
+      "length": 86,
+      "matched_keywords": [
+        "≤"
+      ]
+    },
+    {
+      "text": "где без ограничения общности будем считать, что 0 < α ≤1. Другими словами, мы предпо-",
+      "page": 5,
+      "start_position": 10548,
+      "end_position": 10633,
+      "length": 85,
+      "matched_keywords": [
+        "≤"
+      ]
+    },
+    {
+      "text": "Займемся теперь оценками сверху размерности аттрактора. Под размерностью будем по-",
+      "page": 5,
+      "start_position": 11566,
+      "end_position": 11648,
+      "length": 82,
+      "matched_keywords": [
+        "оценка"
+      ]
+    },
+    {
+      "text": "∂t∥rot u∥2 + 2ν∥Au∥2 + 2µ∥rot u∥2 = 2(f, Au) = 2(rot f, rot u) ≤µ∥rot u∥2 + µ−1∥rot f∥2.",
+      "page": 6,
+      "start_position": 12681,
+      "end_position": 12769,
+      "length": 88,
+      "matched_keywords": [
+        "≤"
+      ]
+    },
+    {
+      "text": "Используя неравенство Пуанкаре λ1∥rot u∥2 ≤∥Au∥2, где λ1 — первое собственное значение",
+      "page": 6,
+      "start_position": 12770,
+      "end_position": 12856,
+      "length": 86,
+      "matched_keywords": [
+        "неравенств",
+        "неравенство",
+        "≤"
+      ]
+    },
+    {
+      "text": "1 )∥rot u∥2 ≤µ−1∥rot f∥2,",
+      "page": 6,
+      "start_position": 12903,
+      "end_position": 12928,
+      "length": 25,
+      "matched_keywords": [
+        "≤"
+      ]
+    },
+    {
+      "text": "откуда в силу неравенства Гронуолла получаем, что на аттракторе u(t) ∈A справедлива",
+      "page": 6,
+      "start_position": 12929,
+      "end_position": 13012,
+      "length": 83,
+      "matched_keywords": [
+        "неравенств",
+        "неравенства"
+      ]
+    },
+    {
+      "text": "b(vj, u, vj) ≤2−1/2∥rot u∥· ∥ρNv∥+ 21/2∥rot Nu∥· ∥ρMv∥1/2∥ρNv∥1/2,",
+      "page": 7,
+      "start_position": 14095,
+      "end_position": 14161,
+      "length": 66,
+      "matched_keywords": [
+        "≤"
+      ]
+    },
+    {
+      "text": "2−1/2∥rot u∥· ∥ρNv∥≤c N",
+      "page": 7,
+      "start_position": 14387,
+      "end_position": 14410,
+      "length": 23,
+      "matched_keywords": [
+        "≤"
+      ]
+    },
+    {
+      "text": "21/2∥rot Nu∥· ∥ρMv∥1/2∥ρNv∥1/2 ≤21/2∥rot u∥· ∥ρMv∥1/2∥ρNv∥1/2 ≤",
+      "page": 7,
+      "start_position": 14523,
+      "end_position": 14586,
+      "length": 63,
+      "matched_keywords": [
+        "≤"
+      ]
+    },
+    {
+      "text": "b(vj, u, vj) ≤c N + √c Mc N",
+      "page": 7,
+      "start_position": 14972,
+      "end_position": 14999,
+      "length": 27,
+      "matched_keywords": [
+        "≤"
+      ]
+    },
+    {
+      "text": "Используя в (3. 12) оценку решений на аттракторе (3. 6) и (3. 13), получаем",
+      "page": 8,
+      "start_position": 15936,
+      "end_position": 16011,
+      "length": 75,
+      "matched_keywords": [
+        "оценку"
+      ]
+    },
+    {
+      "text": "нения m 2 −am −c 2 = 0, получаем на основании теоремы 2. 1 dim F A ≤m∗, т. е.",
+      "page": 8,
+      "start_position": 16162,
+      "end_position": 16239,
+      "length": 77,
+      "matched_keywords": [
+        "≤"
+      ]
+    },
+    {
+      "text": "где x+ = x, если x ≥0, и x+ = 0, если x ≤0.",
+      "page": 8,
+      "start_position": 16304,
+      "end_position": 16347,
+      "length": 43,
+      "matched_keywords": [
+        "≤",
+        "≥"
+      ]
+    },
+    {
+      "text": "Если вязкость достаточно мала (ν ≤(8/5)L 2µ), то",
+      "page": 8,
+      "start_position": 16542,
+      "end_position": 16590,
+      "length": 48,
+      "matched_keywords": [
+        "≤"
+      ]
+    },
+    {
+      "text": "dim F A ≤12 |Ω|1/2∥rot f∥",
+      "page": 8,
+      "start_position": 16591,
+      "end_position": 16616,
+      "length": 25,
+      "matched_keywords": [
+        "≤"
+      ]
+    },
+    {
+      "text": "Замечание 3. 1. Поскольку ∥rot f∥≤|Ω|1/2∥rot f∥∞, то оценку (3. 17) можно записать в",
+      "page": 8,
+      "start_position": 16630,
+      "end_position": 16714,
+      "length": 84,
+      "matched_keywords": [
+        "оценку",
+        "≤"
+      ]
+    },
+    {
+      "text": "dim F A ≤12 |Ω| · ∥rot f∥∞",
+      "page": 9,
+      "start_position": 16720,
+      "end_position": 16746,
+      "length": 26,
+      "matched_keywords": [
+        "≤"
+      ]
+    },
+    {
+      "text": "Эта оценка пропорциональна площади прямоугольной области Ω.",
+      "page": 9,
+      "start_position": 16781,
+      "end_position": 16840,
+      "length": 59,
+      "matched_keywords": [
+        "оценка"
+      ]
+    },
+    {
+      "text": "Ниже будет получена оценка снизу размерности глобального аттрактора,",
+      "page": 9,
+      "start_position": 17228,
+      "end_position": 17296,
+      "length": 68,
+      "matched_keywords": [
+        "оценка"
+      ]
+    },
+    {
+      "text": "Размерность неустойчивого подпространства с Re σ > 0 даст оценку снизу размерности ат-",
+      "page": 10,
+      "start_position": 19282,
+      "end_position": 19368,
+      "length": 86,
+      "matched_keywords": [
+        "оценку"
+      ]
+    },
+    {
+      "text": "k = (k 1, k 2), k 1 ≥0, |k| > 0",
+      "page": 10,
+      "start_position": 19475,
+      "end_position": 19506,
+      "length": 31,
+      "matched_keywords": [
+        "≥"
+      ]
+    },
+    {
+      "text": "возрастает при Λ →∞и удовлетворяет неравенству",
+      "page": 11,
+      "start_position": 22052,
+      "end_position": 22098,
+      "length": 46,
+      "matched_keywords": [
+        "неравенств"
+      ]
+    },
+    {
+      "text": "c 1(t′, r, s)Λ ≤σ(Λ) ≤c 2(t′, r, s)Λ.",
+      "page": 11,
+      "start_position": 22099,
+      "end_position": 22136,
+      "length": 37,
+      "matched_keywords": [
+        "≤"
+      ]
+    },
+    {
+      "text": "dim A ≥2 d(s) ⋍2 a(δ)s 2",
+      "page": 12,
+      "start_position": 23614,
+      "end_position": 23638,
+      "length": 24,
+      "matched_keywords": [
+        "≥"
+      ]
+    },
+    {
+      "text": "Выражая оценку (3. 41) в терминах чисел G 1 и G 2 (3. 44) и оптимизируя по δ ∈(0, 1/",
+      "page": 13,
+      "start_position": 24379,
+      "end_position": 24463,
+      "length": 84,
+      "matched_keywords": [
+        "оценку"
+      ]
+    },
+    {
+      "text": "≲dim F A ≤12|Ω|1/2∥rot f∥",
+      "page": 13,
+      "start_position": 24933,
+      "end_position": 24958,
+      "length": 25,
+      "matched_keywords": [
+        "≤"
+      ]
+    },
+    {
+      "text": "≲dim F A ≤12|Ω| · ∥rot f∥∞",
+      "page": 13,
+      "start_position": 24992,
+      "end_position": 25018,
+      "length": 26,
+      "matched_keywords": [
+        "≤"
+      ]
+    },
+    {
+      "text": "В этом разделе рассматриваются неравенства Либа–Тирринга на двумерном торе T 2",
+      "page": 13,
+      "start_position": 25237,
+      "end_position": 25315,
+      "length": 78,
+      "matched_keywords": [
+        "неравенств",
+        "неравенства"
+      ]
+    },
+    {
+      "text": "= (0, L/α) × (0, L), 0 < α ≤1, вытянутом вдоль x 1. Не ограничивая общности, будем считать,",
+      "page": 13,
+      "start_position": 25320,
+      "end_position": 25411,
+      "length": 91,
+      "matched_keywords": [
+        "≤"
+      ]
+    },
+    {
+      "text": "щие постоянные в неравенствах не растут при α →0.",
+      "page": 14,
+      "start_position": 27166,
+      "end_position": 27215,
+      "length": 49,
+      "matched_keywords": [
+        "неравенств",
+        "неравенства"
+      ]
+    },
+    {
+      "text": "Тогда справедливы неравенства",
+      "page": 14,
+      "start_position": 27438,
+      "end_position": 27467,
+      "length": 29,
+      "matched_keywords": [
+        "неравенств",
+        "неравенства"
+      ]
+    },
+    {
+      "text": "выполнены неравенства",
+      "page": 14,
+      "start_position": 27653,
+      "end_position": 27674,
+      "length": 21,
+      "matched_keywords": [
+        "неравенств",
+        "неравенства"
+      ]
+    },
+    {
+      "text": "j=1 |Mvj(x)|2 выполнено неравенство",
+      "page": 14,
+      "start_position": 27817,
+      "end_position": 27852,
+      "length": 35,
+      "matched_keywords": [
+        "неравенств",
+        "неравенство"
+      ]
+    },
+    {
+      "text": "Интегральные неравенства Либа–Тирринга и их приложения к аттракторам уравнений",
+      "page": 15,
+      "start_position": 29719,
+      "end_position": 29797,
+      "length": 78,
+      "matched_keywords": [
+        "неравенств",
+        "неравенства"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,1666 @@
+{
+  "source_file": "aa1299.pdf",
+  "metadata": {
+    "file": "aa1299.pdf",
+    "pages": 43,
+    "title": "О Ц Е Н К И Ф У Н К Ц И О Л О В С И З В Е С Т Н Ы М К О Н Е Ч НН Ы М Н А Б О Р О М М О М Е Н Т О В",
+    "author": "О. Л. ВИНОГРАДОВ, В. В. Ж У К"
+  },
+  "extraction_info": {
+    "keywords_used": [
+      "неравенств",
+      "неравенства",
+      "оценка",
+      "оценки",
+      "неравенство",
+      "оценку",
+      "оценивается",
+      "≤",
+      "≥",
+      "граница"
+    ],
+    "total_sentences_found": 156,
+    "total_text_length": 57587
+  },
+  "sentences": [
+    {
+      "text": "В статье разрабатывается схема оценки функционалов посредством",
+      "page": 1,
+      "start_position": 318,
+      "end_position": 380,
+      "length": 62,
+      "matched_keywords": [
+        "оценки"
+      ]
+    },
+    {
+      "text": "щенное неравенство Джексона",
+      "page": 1,
+      "start_position": 447,
+      "end_position": 474,
+      "length": 27,
+      "matched_keywords": [
+        "неравенств",
+        "неравенство"
+      ]
+    },
+    {
+      "text": "— целая часть числа х. Аналогичные неравенства получены для",
+      "page": 1,
+      "start_position": 769,
+      "end_position": 828,
+      "length": 59,
+      "matched_keywords": [
+        "неравенств",
+        "неравенства"
+      ]
+    },
+    {
+      "text": "ты в полученных неравенствах в ряде ситуаций близки к наилучшим.",
+      "page": 1,
+      "start_position": 894,
+      "end_position": 958,
+      "length": 64,
+      "matched_keywords": [
+        "неравенств",
+        "неравенства"
+      ]
+    },
+    {
+      "text": "В теории аппроксимации известно много неравенств типа",
+      "page": 2,
+      "start_position": 1559,
+      "end_position": 1612,
+      "length": 53,
+      "matched_keywords": [
+        "неравенств"
+      ]
+    },
+    {
+      "text": "в таких неравенствах является",
+      "page": 2,
+      "start_position": 1800,
+      "end_position": 1829,
+      "length": 29,
+      "matched_keywords": [
+        "неравенств",
+        "неравенства"
+      ]
+    },
+    {
+      "text": "устанавливаются довольно грубые оценки.",
+      "page": 2,
+      "start_position": 1971,
+      "end_position": 2010,
+      "length": 39,
+      "matched_keywords": [
+        "оценки"
+      ]
+    },
+    {
+      "text": "Сейчас мы на примере неравенства (1. 2) обсудим один прием, позволя­",
+      "page": 2,
+      "start_position": 2096,
+      "end_position": 2164,
+      "length": 68,
+      "matched_keywords": [
+        "неравенств",
+        "неравенства"
+      ]
+    },
+    {
+      "text": "ющий устанавливать оценки типа (1. 1) для широкого круга функциона­",
+      "page": 2,
+      "start_position": 2165,
+      "end_position": 2232,
+      "length": 67,
+      "matched_keywords": [
+        "оценки"
+      ]
+    },
+    {
+      "text": "Очевидно, что справедлива оценка",
+      "page": 3,
+      "start_position": 2865,
+      "end_position": 2897,
+      "length": 32,
+      "matched_keywords": [
+        "оценка"
+      ]
+    },
+    {
+      "text": "Один из известных способов доказательства обобщенного неравенства",
+      "page": 3,
+      "start_position": 2967,
+      "end_position": 3032,
+      "length": 65,
+      "matched_keywords": [
+        "неравенств",
+        "неравенства"
+      ]
+    },
+    {
+      "text": "стве (1. 3) следует оценка",
+      "page": 3,
+      "start_position": 3177,
+      "end_position": 3203,
+      "length": 26,
+      "matched_keywords": [
+        "оценка"
+      ]
+    },
+    {
+      "text": "Воспользуемся известными неравенствами [2, с. 162, теорема 4. 1. 4]:",
+      "page": 3,
+      "start_position": 3254,
+      "end_position": 3322,
+      "length": 68,
+      "matched_keywords": [
+        "неравенств",
+        "неравенства"
+      ]
+    },
+    {
+      "text": "приходим к неравенству (1. 2) с явно выраженными по­",
+      "page": 4,
+      "start_position": 3610,
+      "end_position": 3662,
+      "length": 52,
+      "matched_keywords": [
+        "неравенств"
+      ]
+    },
+    {
+      "text": "Постоянные в неравенстве (1. 6) часто оказываются сильно завышены.",
+      "page": 4,
+      "start_position": 3675,
+      "end_position": 3741,
+      "length": 66,
+      "matched_keywords": [
+        "неравенств"
+      ]
+    },
+    {
+      "text": "По неравенству треугольника",
+      "page": 4,
+      "start_position": 3915,
+      "end_position": 3942,
+      "length": 27,
+      "matched_keywords": [
+        "неравенств"
+      ]
+    },
+    {
+      "text": "Оценим каждое слагаемое в сумме, пользуясь неравенствами (1. 5) и по­",
+      "page": 4,
+      "start_position": 3996,
+      "end_position": 4065,
+      "length": 69,
+      "matched_keywords": [
+        "неравенств",
+        "неравенства"
+      ]
+    },
+    {
+      "text": "где тт — оценка нормы оператора Wh, m сверху. Вычисления показывают,",
+      "page": 4,
+      "start_position": 4480,
+      "end_position": 4548,
+      "length": 68,
+      "matched_keywords": [
+        "оценка"
+      ]
+    },
+    {
+      "text": "Складывая неравенства (1. 7) и (1. 8), получаем соотношение",
+      "page": 4,
+      "start_position": 4580,
+      "end_position": 4639,
+      "length": 59,
+      "matched_keywords": [
+        "неравенств",
+        "неравенства"
+      ]
+    },
+    {
+      "text": "Учитывая оценку (1. 4) и подставляя h =",
+      "page": 5,
+      "start_position": 4781,
+      "end_position": 4820,
+      "length": 39,
+      "matched_keywords": [
+        "оценку"
+      ]
+    },
+    {
+      "text": "приходим к неравенству (1. 2):",
+      "page": 5,
+      "start_position": 4822,
+      "end_position": 4852,
+      "length": 30,
+      "matched_keywords": [
+        "неравенств"
+      ]
+    },
+    {
+      "text": "Постоянные в последнем неравенстве оказываются в определенном смысле",
+      "page": 5,
+      "start_position": 4854,
+      "end_position": 4922,
+      "length": 68,
+      "matched_keywords": [
+        "неравенств"
+      ]
+    },
+    {
+      "text": "Операторы Sh, 2, m применялись для доказательства неравенств типа",
+      "page": 5,
+      "start_position": 4980,
+      "end_position": 5045,
+      "length": 65,
+      "matched_keywords": [
+        "неравенств"
+      ]
+    },
+    {
+      "text": "некоторой общей схемы оценки функционалов, заданных на абстракт­",
+      "page": 5,
+      "start_position": 5197,
+      "end_position": 5261,
+      "length": 64,
+      "matched_keywords": [
+        "оценки"
+      ]
+    },
+    {
+      "text": "оценки полуаддитивных функционалов, и выводятся ее частные случаи.",
+      "page": 5,
+      "start_position": 5939,
+      "end_position": 6005,
+      "length": 66,
+      "matched_keywords": [
+        "оценки"
+      ]
+    },
+    {
+      "text": "ются оценки наилучшего приближения функции через модули непрерыв­",
+      "page": 5,
+      "start_position": 6080,
+      "end_position": 6145,
+      "length": 65,
+      "matched_keywords": [
+        "оценки"
+      ]
+    },
+    {
+      "text": "реализующие оценки, установленные для наилучших приближений.",
+      "page": 5,
+      "start_position": 6280,
+      "end_position": 6340,
+      "length": 60,
+      "matched_keywords": [
+        "оценки"
+      ]
+    },
+    {
+      "text": "ные методы приближения, реализующие неравенства.",
+      "page": 6,
+      "start_position": 6495,
+      "end_position": 6543,
+      "length": 48,
+      "matched_keywords": [
+        "неравенств",
+        "неравенства"
+      ]
+    },
+    {
+      "text": "выводится несколько неравенств вида (1. 1).",
+      "page": 6,
+      "start_position": 6548,
+      "end_position": 6591,
+      "length": 43,
+      "matched_keywords": [
+        "неравенств"
+      ]
+    },
+    {
+      "text": "§2. Оценки функционалов в пространствах класса B",
+      "page": 8,
+      "start_position": 11449,
+      "end_position": 11497,
+      "length": 48,
+      "matched_keywords": [
+        "оценки"
+      ]
+    },
+    {
+      "text": "Как видно из неравенства (1. 4) во введении, такой выбор коэффициентов",
+      "page": 8,
+      "start_position": 11621,
+      "end_position": 11691,
+      "length": 70,
+      "matched_keywords": [
+        "неравенств",
+        "неравенства"
+      ]
+    },
+    {
+      "text": "Полунорма оператора Vft>m оценивается [3] по формуле",
+      "page": 9,
+      "start_position": 12141,
+      "end_position": 12193,
+      "length": 52,
+      "matched_keywords": [
+        "оценивается"
+      ]
+    },
+    {
+      "text": "— целая часть числа ж. В той же работе получена двусторонняя оценка",
+      "page": 9,
+      "start_position": 12275,
+      "end_position": 12342,
+      "length": 67,
+      "matched_keywords": [
+        "оценка"
+      ]
+    },
+    {
+      "text": "Согласно неравенству (1. 1) полунормы итераций операторов У%, т",
+      "page": 10,
+      "start_position": 12989,
+      "end_position": 13052,
+      "length": 63,
+      "matched_keywords": [
+        "неравенств"
+      ]
+    },
+    {
+      "text": "Li(M) неравенства (2. 6)",
+      "page": 10,
+      "start_position": 13217,
+      "end_position": 13241,
+      "length": 24,
+      "matched_keywords": [
+        "неравенств",
+        "неравенства"
+      ]
+    },
+    {
+      "text": "2. 2. Общие теоремы об оценках функционалов. Величины",
+      "page": 10,
+      "start_position": 13403,
+      "end_position": 13456,
+      "length": 53,
+      "matched_keywords": [
+        "оценка"
+      ]
+    },
+    {
+      "text": "характеристики в более сложных оценках.",
+      "page": 10,
+      "start_position": 13729,
+      "end_position": 13768,
+      "length": 39,
+      "matched_keywords": [
+        "оценка"
+      ]
+    },
+    {
+      "text": "1. Докажем неравенство (2. 8). По полуаддитивности функционала Ф",
+      "page": 11,
+      "start_position": 14832,
+      "end_position": 14896,
+      "length": 64,
+      "matched_keywords": [
+        "неравенств",
+        "неравенство"
+      ]
+    },
+    {
+      "text": "Остается применить к каждому слагаемому оценку (1. 9):",
+      "page": 11,
+      "start_position": 14998,
+      "end_position": 15052,
+      "length": 54,
+      "matched_keywords": [
+        "оценку"
+      ]
+    },
+    {
+      "text": "2. Для доказательства неравенства (2. 9) запишем",
+      "page": 11,
+      "start_position": 15153,
+      "end_position": 15201,
+      "length": 48,
+      "matched_keywords": [
+        "неравенств",
+        "неравенства"
+      ]
+    },
+    {
+      "text": "Оценка первого слагаемого уже получена, а второе оценивается так же,",
+      "page": 12,
+      "start_position": 15227,
+      "end_position": 15295,
+      "length": 68,
+      "matched_keywords": [
+        "оценка",
+        "оценивается"
+      ]
+    },
+    {
+      "text": "с помощью соотношений (1. 9) и (2. 7). Неравенство (2. 11) получается",
+      "page": 12,
+      "start_position": 15297,
+      "end_position": 15366,
+      "length": 69,
+      "matched_keywords": [
+        "неравенств",
+        "неравенство"
+      ]
+    },
+    {
+      "text": "Замечание 2. 3. Обратим внимание читателя на то, что оценка функ­",
+      "page": 12,
+      "start_position": 15405,
+      "end_position": 15470,
+      "length": 65,
+      "matched_keywords": [
+        "оценка"
+      ]
+    },
+    {
+      "text": "ционала Ф складывается из двух независимых частей: оценки на откло­",
+      "page": 12,
+      "start_position": 15471,
+      "end_position": 15538,
+      "length": 67,
+      "matched_keywords": [
+        "оценки"
+      ]
+    },
+    {
+      "text": "Оценки первого типа, примером которых служит нера­",
+      "page": 12,
+      "start_position": 15626,
+      "end_position": 15676,
+      "length": 50,
+      "matched_keywords": [
+        "оценки"
+      ]
+    },
+    {
+      "text": "Д о к а з а т е л ь с т в о . Для доказательства неравенства (2. 12) надо положить",
+      "page": 12,
+      "start_position": 16220,
+      "end_position": 16302,
+      "length": 82,
+      "matched_keywords": [
+        "неравенств",
+        "неравенства"
+      ]
+    },
+    {
+      "text": "= е и подставить оценку полунормы оператора Wh, m-",
+      "page": 12,
+      "start_position": 16317,
+      "end_position": 16367,
+      "length": 50,
+      "matched_keywords": [
+        "оценку"
+      ]
+    },
+    {
+      "text": "(2. 13) следует из (2. 12) с помощью неравенства (1. 4). Из сходимости ряда",
+      "page": 12,
+      "start_position": 16382,
+      "end_position": 16457,
+      "length": 75,
+      "matched_keywords": [
+        "неравенств",
+        "неравенства"
+      ]
+    },
+    {
+      "text": "2? Р(</р) для всех <р € Я Л, записывая неравенство (2. 12) при",
+      "page": 13,
+      "start_position": 16551,
+      "end_position": 16613,
+      "length": 62,
+      "matched_keywords": [
+        "неравенств",
+        "неравенство"
+      ]
+    },
+    {
+      "text": "сти неравенства (2. 15). Из (2. 15), в свою очередь, вытекает оценка функ­",
+      "page": 13,
+      "start_position": 16793,
+      "end_position": 16867,
+      "length": 74,
+      "matched_keywords": [
+        "неравенств",
+        "неравенства",
+        "оценка"
+      ]
+    },
+    {
+      "text": "ношения (2. 16) через модуль непрерывности, приходим к неравенству",
+      "page": 13,
+      "start_position": 17047,
+      "end_position": 17113,
+      "length": 66,
+      "matched_keywords": [
+        "неравенств"
+      ]
+    },
+    {
+      "text": "модулем непрерывности, чем в неравенстве (2. 13), если положить в по­",
+      "page": 13,
+      "start_position": 17267,
+      "end_position": 17336,
+      "length": 69,
+      "matched_keywords": [
+        "неравенств"
+      ]
+    },
+    {
+      "text": "Поэтому оценки через модули непрерывности мы формулируем в ви­",
+      "page": 13,
+      "start_position": 17692,
+      "end_position": 17754,
+      "length": 62,
+      "matched_keywords": [
+        "оценки"
+      ]
+    },
+    {
+      "text": "де (2. 13). Неравенства вида (2. 16) имеют самостоятельное значение, но",
+      "page": 13,
+      "start_position": 17755,
+      "end_position": 17826,
+      "length": 71,
+      "matched_keywords": [
+        "неравенств",
+        "неравенства"
+      ]
+    },
+    {
+      "text": "Если известны явные оценки моментов, то условия сходимости можно",
+      "page": 14,
+      "start_position": 18088,
+      "end_position": 18152,
+      "length": 64,
+      "matched_keywords": [
+        "оценки"
+      ]
+    },
+    {
+      "text": "В пространствах периодических функций неравенство (2. 19) и его кон­",
+      "page": 15,
+      "start_position": 18962,
+      "end_position": 19030,
+      "length": 68,
+      "matched_keywords": [
+        "неравенств",
+        "неравенство"
+      ]
+    },
+    {
+      "text": "Выделим еще случай, когда оценка ведется через производные сопря­",
+      "page": 15,
+      "start_position": 19181,
+      "end_position": 19246,
+      "length": 65,
+      "matched_keywords": [
+        "оценка"
+      ]
+    },
+    {
+      "text": "§3. Неравенства Джексона для наилучших приближений",
+      "page": 15,
+      "start_position": 19592,
+      "end_position": 19642,
+      "length": 50,
+      "matched_keywords": [
+        "неравенств",
+        "неравенства"
+      ]
+    },
+    {
+      "text": "3. 1. Оценки наилучших приближений. При а > 0 обозначим через",
+      "page": 15,
+      "start_position": 19715,
+      "end_position": 19776,
+      "length": 61,
+      "matched_keywords": [
+        "оценки"
+      ]
+    },
+    {
+      "text": "Известны неравенства типа Ахиезера^Крейна^Фавара; см. [6, с. 241,",
+      "page": 16,
+      "start_position": 20170,
+      "end_position": 20235,
+      "length": 65,
+      "matched_keywords": [
+        "неравенств",
+        "неравенства"
+      ]
+    },
+    {
+      "text": "В правых частях этих неравенств Р(-) можно заменить на Аа-$(-)р-",
+      "page": 16,
+      "start_position": 20394,
+      "end_position": 20458,
+      "length": 64,
+      "matched_keywords": [
+        "неравенств"
+      ]
+    },
+    {
+      "text": "~Еа, левые части неравенств",
+      "page": 17,
+      "start_position": 21616,
+      "end_position": 21643,
+      "length": 27,
+      "matched_keywords": [
+        "неравенств"
+      ]
+    },
+    {
+      "text": "В силу неравенств 1 ^ C CS)£ ^ 2 соотношение (2. 10)",
+      "page": 17,
+      "start_position": 21706,
+      "end_position": 21758,
+      "length": 52,
+      "matched_keywords": [
+        "неравенств"
+      ]
+    },
+    {
+      "text": "принимает вид (3. 5). Оценки (3. 4) и (3. 7) получаются, если применить",
+      "page": 17,
+      "start_position": 21760,
+      "end_position": 21831,
+      "length": 71,
+      "matched_keywords": [
+        "оценки"
+      ]
+    },
+    {
+      "text": "неравенствам (3. 1) и (3. 2) Np(<fr, D",
+      "page": 17,
+      "start_position": 21836,
+      "end_position": 21874,
+      "length": 38,
+      "matched_keywords": [
+        "неравенств",
+        "неравенства"
+      ]
+    },
+    {
+      "text": "чая s = 0, е = 1. Неравенства (3. 3) и (3. 6) (формально более сильные,",
+      "page": 17,
+      "start_position": 21920,
+      "end_position": 21991,
+      "length": 71,
+      "matched_keywords": [
+        "неравенств",
+        "неравенства"
+      ]
+    },
+    {
+      "text": "Неравенства для функций, ортогональных E<j, получаются, если при­",
+      "page": 17,
+      "start_position": 22212,
+      "end_position": 22277,
+      "length": 65,
+      "matched_keywords": [
+        "неравенств",
+        "неравенства"
+      ]
+    },
+    {
+      "text": "менить уже доказанные неравенства к пространству (Ш^, Р)",
+      "page": 17,
+      "start_position": 22278,
+      "end_position": 22334,
+      "length": 56,
+      "matched_keywords": [
+        "неравенств",
+        "неравенства"
+      ]
+    },
+    {
+      "text": "налу Ф = Р. При этом учитывается, что верны те же оценки для момен­",
+      "page": 17,
+      "start_position": 22415,
+      "end_position": 22482,
+      "length": 67,
+      "matched_keywords": [
+        "оценки"
+      ]
+    },
+    {
+      "text": "~Еа, левые части неравенств",
+      "page": 18,
+      "start_position": 23208,
+      "end_position": 23235,
+      "length": 27,
+      "matched_keywords": [
+        "неравенств"
+      ]
+    },
+    {
+      "text": "При доказательстве теоремы 3. 1. 2 надо учесть, что неравенство",
+      "page": 18,
+      "start_position": 23290,
+      "end_position": 23353,
+      "length": 63,
+      "matched_keywords": [
+        "неравенств",
+        "неравенство"
+      ]
+    },
+    {
+      "text": "~Еа, левые части неравенств",
+      "page": 19,
+      "start_position": 24128,
+      "end_position": 24155,
+      "length": 27,
+      "matched_keywords": [
+        "неравенств"
+      ]
+    },
+    {
+      "text": "~Ea, левые части неравенств",
+      "page": 20,
+      "start_position": 24767,
+      "end_position": 24794,
+      "length": 27,
+      "matched_keywords": [
+        "неравенств"
+      ]
+    },
+    {
+      "text": "щение неравенств (3. 21) и (3. 22): если при тех же условиях р € Z",
+      "page": 20,
+      "start_position": 24918,
+      "end_position": 24984,
+      "length": 66,
+      "matched_keywords": [
+        "неравенств"
+      ]
+    },
+    {
+      "text": "ций / , ортогональных E<j, левую часть неравенства (3. 24) можно заменить",
+      "page": 20,
+      "start_position": 25206,
+      "end_position": 25279,
+      "length": 73,
+      "matched_keywords": [
+        "неравенств",
+        "неравенства"
+      ]
+    },
+    {
+      "text": "Другим способом неравенства (3. 21) и (3. 22) получены в [5], где вдоба­",
+      "page": 20,
+      "start_position": 25292,
+      "end_position": 25364,
+      "length": 72,
+      "matched_keywords": [
+        "неравенств",
+        "неравенства"
+      ]
+    },
+    {
+      "text": "этом случае оценка правой части через модули непрерывности высоких",
+      "page": 20,
+      "start_position": 25471,
+      "end_position": 25537,
+      "length": 66,
+      "matched_keywords": [
+        "оценка"
+      ]
+    },
+    {
+      "text": "~Еа, левые части неравенств",
+      "page": 21,
+      "start_position": 26261,
+      "end_position": 26288,
+      "length": 27,
+      "matched_keywords": [
+        "неравенств"
+      ]
+    },
+    {
+      "text": "ки, реализующие оценки в теоремах п. 3. 1. Мы будем обозначать их Y^, m > 9",
+      "page": 22,
+      "start_position": 27155,
+      "end_position": 27230,
+      "length": 75,
+      "matched_keywords": [
+        "оценки"
+      ]
+    },
+    {
+      "text": "Осталось воспользоваться неравенством треугольника, оценками (3. 30)",
+      "page": 23,
+      "start_position": 28045,
+      "end_position": 28113,
+      "length": 68,
+      "matched_keywords": [
+        "неравенств",
+        "оценка",
+        "неравенство"
+      ]
+    },
+    {
+      "text": "неравенств в теоремах 3. 2. 1 3. 2. 5 можно заменить на Р ( / ) . Это утвер­",
+      "page": 24,
+      "start_position": 29405,
+      "end_position": 29481,
+      "length": 76,
+      "matched_keywords": [
+        "неравенств"
+      ]
+    },
+    {
+      "text": "в E(j, реализующий неравенство (3. 22). Тем же способом могут быть по­",
+      "page": 24,
+      "start_position": 29608,
+      "end_position": 29678,
+      "length": 70,
+      "matched_keywords": [
+        "неравенств",
+        "неравенство"
+      ]
+    },
+    {
+      "text": "строены операторы свертки, реализующие неравенства (3. 7), (3. 12), (3. 17)",
+      "page": 24,
+      "start_position": 29679,
+      "end_position": 29754,
+      "length": 75,
+      "matched_keywords": [
+        "неравенств",
+        "неравенства"
+      ]
+    },
+    {
+      "text": "речисленных неравенств, при котором они сводятся к оценкам наилучших",
+      "page": 24,
+      "start_position": 29830,
+      "end_position": 29898,
+      "length": 68,
+      "matched_keywords": [
+        "неравенств",
+        "оценка"
+      ]
+    },
+    {
+      "text": "жет привести к более точным оценкам, которые также будут достигаться",
+      "page": 24,
+      "start_position": 29973,
+      "end_position": 30041,
+      "length": 68,
+      "matched_keywords": [
+        "оценка"
+      ]
+    },
+    {
+      "text": "ством С. Все оценки сверху верны в произвольном пространстве перио­",
+      "page": 25,
+      "start_position": 30719,
+      "end_position": 30786,
+      "length": 67,
+      "matched_keywords": [
+        "оценки"
+      ]
+    },
+    {
+      "text": "Шаг h в неравенствах типа Джексона удобно записывать в виде",
+      "page": 25,
+      "start_position": 30856,
+      "end_position": 30915,
+      "length": 59,
+      "matched_keywords": [
+        "неравенств",
+        "неравенства"
+      ]
+    },
+    {
+      "text": "4. 1. Неравенства Джексона для самой функции. Полагая h =",
+      "page": 25,
+      "start_position": 30930,
+      "end_position": 30987,
+      "length": 57,
+      "matched_keywords": [
+        "неравенств",
+        "неравенства"
+      ]
+    },
+    {
+      "text": "запишем неравенство (3. 20) в виде",
+      "page": 25,
+      "start_position": 30989,
+      "end_position": 31023,
+      "length": 34,
+      "matched_keywords": [
+        "неравенств",
+        "неравенство"
+      ]
+    },
+    {
+      "text": "Неравенство (4. 1) можно записать в виде Х 2 т ( 7 ) ^ -<4. 2 т(7), где",
+      "page": 26,
+      "start_position": 31263,
+      "end_position": 31334,
+      "length": 71,
+      "matched_keywords": [
+        "неравенств",
+        "неравенство"
+      ]
+    },
+    {
+      "text": "В книге [1, с. 57, теорема 3] содержится оценка Х 2 т(у)",
+      "page": 26,
+      "start_position": 31377,
+      "end_position": 31433,
+      "length": 56,
+      "matched_keywords": [
+        "оценка"
+      ]
+    },
+    {
+      "text": "Именно установлены неравенства Х 2 т ( 7 ) ^ С 2 т ( 7 ) и Х 2 т ( 7 ) ^ -D 2 m(7 K",
+      "page": 26,
+      "start_position": 31988,
+      "end_position": 32071,
+      "length": 83,
+      "matched_keywords": [
+        "неравенств",
+        "неравенства"
+      ]
+    },
+    {
+      "text": "При т = 2 получена более точная оценка [11, с. 159, теорема 3]:",
+      "page": 26,
+      "start_position": 32426,
+      "end_position": 32489,
+      "length": 63,
+      "matched_keywords": [
+        "оценка"
+      ]
+    },
+    {
+      "text": "из [11] надо заменить 7 на 27. Отметим еще, что в [11] получены оценки",
+      "page": 27,
+      "start_position": 32880,
+      "end_position": 32950,
+      "length": 70,
+      "matched_keywords": [
+        "оценки"
+      ]
+    },
+    {
+      "text": "сти. Впоследствии оценки, содержащие С 2 т ( 7 ) , и оценки через обынте­",
+      "page": 27,
+      "start_position": 33087,
+      "end_position": 33160,
+      "length": 73,
+      "matched_keywords": [
+        "оценки"
+      ]
+    },
+    {
+      "text": "Еще один способ доказательства неравенства Джексона применялся в",
+      "page": 27,
+      "start_position": 33985,
+      "end_position": 34049,
+      "length": 64,
+      "matched_keywords": [
+        "неравенств",
+        "неравенства"
+      ]
+    },
+    {
+      "text": "Отметим еще, что все упомянутые оценки реализованы с помощью ли­",
+      "page": 28,
+      "start_position": 34207,
+      "end_position": 34271,
+      "length": 64,
+      "matched_keywords": [
+        "оценки"
+      ]
+    },
+    {
+      "text": "Последнее неравенство доказывается по индукции. Сравнение коэффици-",
+      "page": 29,
+      "start_position": 35840,
+      "end_position": 35907,
+      "length": 67,
+      "matched_keywords": [
+        "неравенств",
+        "неравенство"
+      ]
+    },
+    {
+      "text": "Следы неравенства (4. 3) видны в табл. 4. 2 при т = 2.",
+      "page": 29,
+      "start_position": 35910,
+      "end_position": 35964,
+      "length": 54,
+      "matched_keywords": [
+        "неравенств",
+        "неравенства"
+      ]
+    },
+    {
+      "text": "статочно мало, чтобы обеспечить среднее неравенство.",
+      "page": 29,
+      "start_position": 36450,
+      "end_position": 36502,
+      "length": 52,
+      "matched_keywords": [
+        "неравенств",
+        "неравенство"
+      ]
+    },
+    {
+      "text": "эта оценка ранее была получена Г. И. На­",
+      "page": 29,
+      "start_position": 36607,
+      "end_position": 36647,
+      "length": 40,
+      "matched_keywords": [
+        "оценка"
+      ]
+    },
+    {
+      "text": "В [4, 5] была уменьшена константа с 7 и установлено неравенство",
+      "page": 30,
+      "start_position": 37093,
+      "end_position": 37156,
+      "length": 63,
+      "matched_keywords": [
+        "неравенств",
+        "неравенство"
+      ]
+    },
+    {
+      "text": "Из оценки (3. 22) настоящей работы неравенство (4. 6) также следует. Если",
+      "page": 30,
+      "start_position": 37271,
+      "end_position": 37344,
+      "length": 73,
+      "matched_keywords": [
+        "неравенств",
+        "оценки",
+        "неравенство"
+      ]
+    },
+    {
+      "text": "В [3] авторы сравнили полученные ими оценки с величинами В 2 т{'у)",
+      "page": 30,
+      "start_position": 38002,
+      "end_position": 38068,
+      "length": 66,
+      "matched_keywords": [
+        "оценки"
+      ]
+    },
+    {
+      "text": "соотношения для констант в неравенствах Джексона в пространствах Ьр",
+      "page": 31,
+      "start_position": 38220,
+      "end_position": 38287,
+      "length": 67,
+      "matched_keywords": [
+        "неравенств",
+        "неравенства"
+      ]
+    },
+    {
+      "text": "4. 2. Неравенства Джексона для производных. Полагая h =",
+      "page": 31,
+      "start_position": 38307,
+      "end_position": 38362,
+      "length": 55,
+      "matched_keywords": [
+        "неравенств",
+        "неравенства"
+      ]
+    },
+    {
+      "text": "пишем неравенство (3. 15) в виде",
+      "page": 31,
+      "start_position": 38368,
+      "end_position": 38400,
+      "length": 32,
+      "matched_keywords": [
+        "неравенств",
+        "неравенство"
+      ]
+    },
+    {
+      "text": "обобщенном неравенстве Джексона",
+      "page": 31,
+      "start_position": 38535,
+      "end_position": 38566,
+      "length": 31,
+      "matched_keywords": [
+        "неравенств"
+      ]
+    },
+    {
+      "text": "прерывности. Из неравенства шг ^ 2 шг_\\ следует, что",
+      "page": 31,
+      "start_position": 38799,
+      "end_position": 38851,
+      "length": 52,
+      "matched_keywords": [
+        "неравенств",
+        "неравенства"
+      ]
+    },
+    {
+      "text": "Применяя это неравенство г раз и учитывая, что щ„з(7)",
+      "page": 31,
+      "start_position": 38875,
+      "end_position": 38928,
+      "length": 53,
+      "matched_keywords": [
+        "неравенств",
+        "неравенство"
+      ]
+    },
+    {
+      "text": "Применяя это неравенство г раз, получаем",
+      "page": 31,
+      "start_position": 39070,
+      "end_position": 39110,
+      "length": 40,
+      "matched_keywords": [
+        "неравенств",
+        "неравенство"
+      ]
+    },
+    {
+      "text": "Неравенство (4. 9) можно записать в виде Кто„з(7) ^ A-2 m, li{l)\",",
+      "page": 31,
+      "start_position": 39188,
+      "end_position": 39254,
+      "length": 66,
+      "matched_keywords": [
+        "неравенств",
+        "неравенство"
+      ]
+    },
+    {
+      "text": "жатся оценки х г,/з(7) ^ С г > /з(7) и x r,/s( 7) ^ Hr, p{l)->",
+      "page": 32,
+      "start_position": 39543,
+      "end_position": 39605,
+      "length": 62,
+      "matched_keywords": [
+        "оценки"
+      ]
+    },
+    {
+      "text": "в [16] установлена оценка",
+      "page": 32,
+      "start_position": 40017,
+      "end_position": 40042,
+      "length": 25,
+      "matched_keywords": [
+        "оценка"
+      ]
+    },
+    {
+      "text": "шения в цепочке — это стандартные оценки свертки [9]. Поскольку нормы",
+      "page": 32,
+      "start_position": 40362,
+      "end_position": 40431,
+      "length": 69,
+      "matched_keywords": [
+        "оценки"
+      ]
+    },
+    {
+      "text": "Во-первых, заметим, что ввиду неравенств (4. 10) и (4. 11) при фикси­",
+      "page": 33,
+      "start_position": 41073,
+      "end_position": 41142,
+      "length": 69,
+      "matched_keywords": [
+        "неравенств"
+      ]
+    },
+    {
+      "text": "рованных г и 7 оценка Огф{у)",
+      "page": 33,
+      "start_position": 41143,
+      "end_position": 41171,
+      "length": 28,
+      "matched_keywords": [
+        "оценка"
+      ]
+    },
+    {
+      "text": "оо. Левое неравенство легко вытекает из сравнения пределов А 2 тф{у)",
+      "page": 33,
+      "start_position": 41413,
+      "end_position": 41481,
+      "length": 68,
+      "matched_keywords": [
+        "неравенств",
+        "неравенство"
+      ]
+    },
+    {
+      "text": "при достаточно больших m верно неравенство А 2 тф(у)",
+      "page": 33,
+      "start_position": 41651,
+      "end_position": 41703,
+      "length": 52,
+      "matched_keywords": [
+        "неравенств",
+        "неравенство"
+      ]
+    },
+    {
+      "text": "4. 3. Неравенства Джексона для производных сопряженной функ­",
+      "page": 33,
+      "start_position": 42143,
+      "end_position": 42203,
+      "length": 60,
+      "matched_keywords": [
+        "неравенств",
+        "неравенства"
+      ]
+    },
+    {
+      "text": "запишем неравенство (3. 27) в виде",
+      "page": 33,
+      "start_position": 42222,
+      "end_position": 42256,
+      "length": 34,
+      "matched_keywords": [
+        "неравенств",
+        "неравенство"
+      ]
+    },
+    {
+      "text": "в обобщенном неравенстве Джексона",
+      "page": 33,
+      "start_position": 42340,
+      "end_position": 42373,
+      "length": 33,
+      "matched_keywords": [
+        "неравенств"
+      ]
+    },
+    {
+      "text": "Неравенство (4. 12) можно записать в виде Й 2 Т О ) (з(7) ^ А 2 тф(",
+      "page": 33,
+      "start_position": 42466,
+      "end_position": 42533,
+      "length": 67,
+      "matched_keywords": [
+        "неравенств",
+        "неравенство"
+      ]
+    },
+    {
+      "text": "§5. Неравенства Джексона для наилучших приближений сплайнами",
+      "page": 34,
+      "start_position": 43486,
+      "end_position": 43546,
+      "length": 60,
+      "matched_keywords": [
+        "неравенств",
+        "неравенства"
+      ]
+    },
+    {
+      "text": "5. 1. Оценки наилучших приближений. В этом параграфе при в €",
+      "page": 34,
+      "start_position": 43584,
+      "end_position": 43644,
+      "length": 60,
+      "matched_keywords": [
+        "оценки"
+      ]
+    },
+    {
+      "text": "известны неравенства типа Ахиезера^Крейна^Фавара лишь применитель-",
+      "page": 35,
+      "start_position": 44514,
+      "end_position": 44580,
+      "length": 66,
+      "matched_keywords": [
+        "неравенств",
+        "неравенства"
+      ]
+    },
+    {
+      "text": "Неравенство (5. 1) при р = 1 и р = + о о содержится в [2, с. 221 225. п. 5. 2. 4",
+      "page": 35,
+      "start_position": 44959,
+      "end_position": 45039,
+      "length": 80,
+      "matched_keywords": [
+        "неравенств",
+        "неравенство"
+      ]
+    },
+    {
+      "text": "и с. 246, предложение 5. 4. 9]; там же см. историю вопроса; неравенство (5. 2)",
+      "page": 35,
+      "start_position": 45041,
+      "end_position": 45119,
+      "length": 78,
+      "matched_keywords": [
+        "неравенств",
+        "неравенство"
+      ]
+    },
+    {
+      "text": "Неравенство (5. 3) получается, если применить теоре­",
+      "page": 36,
+      "start_position": 45497,
+      "end_position": 45549,
+      "length": 52,
+      "matched_keywords": [
+        "неравенств",
+        "неравенство"
+      ]
+    },
+    {
+      "text": "согласно неравенствам (5. 1) и (5. 2) i Vp(#, D",
+      "page": 36,
+      "start_position": 45628,
+      "end_position": 45675,
+      "length": 47,
+      "matched_keywords": [
+        "неравенств",
+        "неравенства"
+      ]
+    },
+    {
+      "text": "воспользоваться неравенствами (см. комментарии к неравенствам (5. 1)",
+      "page": 36,
+      "start_position": 46033,
+      "end_position": 46101,
+      "length": 68,
+      "matched_keywords": [
+        "неравенств",
+        "неравенства"
+      ]
+    },
+    {
+      "text": "ми методами. Неравенства в теоремах п. 5. 1 могут быть, как и для",
+      "page": 37,
+      "start_position": 47434,
+      "end_position": 47499,
+      "length": 65,
+      "matched_keywords": [
+        "неравенств",
+        "неравенства"
+      ]
+    },
+    {
+      "text": "раторы со значениями в S 2 n, 7; для которых верна оценка (5. 4). Хорошо",
+      "page": 37,
+      "start_position": 47824,
+      "end_position": 47896,
+      "length": 72,
+      "matched_keywords": [
+        "оценка"
+      ]
+    },
+    {
+      "text": "ализующие оценки в теоремах п. 5. 1. Мы будем обозначать их Уп, т, ц,^ или",
+      "page": 38,
+      "start_position": 48056,
+      "end_position": 48130,
+      "length": 74,
+      "matched_keywords": [
+        "оценки"
+      ]
+    },
+    {
+      "text": "используются неравенства (5. 4).",
+      "page": 39,
+      "start_position": 48781,
+      "end_position": 48813,
+      "length": 32,
+      "matched_keywords": [
+        "неравенств",
+        "неравенства"
+      ]
+    },
+    {
+      "text": "раторов из L в С [19, замечание 11]. Поэтому оценки предыдущего па­",
+      "page": 39,
+      "start_position": 50217,
+      "end_position": 50284,
+      "length": 67,
+      "matched_keywords": [
+        "оценки"
+      ]
+    },
+    {
+      "text": "В заключение параграфа подчеркнем, что неравенства Джексона для",
+      "page": 40,
+      "start_position": 50452,
+      "end_position": 50515,
+      "length": 63,
+      "matched_keywords": [
+        "неравенств",
+        "неравенства"
+      ]
+    },
+    {
+      "text": "§б. Дополнительные оценки",
+      "page": 40,
+      "start_position": 50633,
+      "end_position": 50658,
+      "length": 25,
+      "matched_keywords": [
+        "оценки"
+      ]
+    },
+    {
+      "text": "В этом параграфе предлагаются еще два варианта оценки функцио­",
+      "page": 40,
+      "start_position": 50660,
+      "end_position": 50722,
+      "length": 62,
+      "matched_keywords": [
+        "оценки"
+      ]
+    },
+    {
+      "text": "оремы 2. 2 из теоремы 2. 1 для оценки fc-ro слагаемого в сумме исполь­",
+      "page": 40,
+      "start_position": 50977,
+      "end_position": 51047,
+      "length": 70,
+      "matched_keywords": [
+        "оценки"
+      ]
+    },
+    {
+      "text": "шись одним неравенством.",
+      "page": 41,
+      "start_position": 51973,
+      "end_position": 51997,
+      "length": 24,
+      "matched_keywords": [
+        "неравенств",
+        "неравенство"
+      ]
+    },
+    {
+      "text": "терям по сравнению с теоремой 3. 1. 4, но сами правые части неравенств",
+      "page": 41,
+      "start_position": 52331,
+      "end_position": 52401,
+      "length": 70,
+      "matched_keywords": [
+        "неравенств"
+      ]
+    },
+    {
+      "text": "Известны следующие усиления неравенств (3. 1) и (3. 2):",
+      "page": 42,
+      "start_position": 52626,
+      "end_position": 52681,
+      "length": 55,
+      "matched_keywords": [
+        "неравенств"
+      ]
+    },
+    {
+      "text": "Неравенство (6. 2) в периодическом",
+      "page": 42,
+      "start_position": 53099,
+      "end_position": 53133,
+      "length": 34,
+      "matched_keywords": [
+        "неравенств",
+        "неравенство"
+      ]
+    },
+    {
+      "text": "Мерлиной [21]; неравенство (6. 3) — Виноградовым [9, следствие 6]. При­",
+      "page": 42,
+      "start_position": 53205,
+      "end_position": 53276,
+      "length": 71,
+      "matched_keywords": [
+        "неравенств",
+        "неравенство"
+      ]
+    },
+    {
+      "text": "тонким, хотя и более громоздким оценкам. Приведем пример.",
+      "page": 42,
+      "start_position": 53354,
+      "end_position": 53411,
+      "length": 57,
+      "matched_keywords": [
+        "оценка"
+      ]
+    },
+    {
+      "text": "Как обычно, применяя доказанные неравенства к полунорме",
+      "page": 42,
+      "start_position": 53664,
+      "end_position": 53719,
+      "length": 55,
+      "matched_keywords": [
+        "неравенств",
+        "неравенства"
+      ]
+    },
+    {
+      "text": "получаем формально более сильные оценки, правые части которых со­",
+      "page": 42,
+      "start_position": 53732,
+      "end_position": 53797,
+      "length": 65,
+      "matched_keywords": [
+        "оценки"
+      ]
+    },
+    {
+      "text": "В работе [22] получены сплайновые аналоги неравенства (6. 2). Их приме­",
+      "page": 42,
+      "start_position": 53868,
+      "end_position": 53939,
+      "length": 71,
+      "matched_keywords": [
+        "неравенств",
+        "неравенства"
+      ]
+    },
+    {
+      "text": "[4] Виноградов О. Л., Ж у к В. В., Оценки функционалов",
+      "page": 42,
+      "start_position": 54326,
+      "end_position": 54380,
+      "length": 54,
+      "matched_keywords": [
+        "оценки"
+      ]
+    },
+    {
+      "text": "[9] Виноградов О. Л., Точные неравенства",
+      "page": 43,
+      "start_position": 54966,
+      "end_position": 55006,
+      "length": 40,
+      "matched_keywords": [
+        "неравенств",
+        "неравенства"
+      ]
+    },
+    {
+      "text": "[10] Виноградов О. Л., Ж у к В. В., Оценки функционалов",
+      "page": 43,
+      "start_position": 55135,
+      "end_position": 55190,
+      "length": 55,
+      "matched_keywords": [
+        "оценки"
+      ]
+    },
+    {
+      "text": "[18] Виноградов О. Л., Ж у к В. В., Точные неравенства",
+      "page": 43,
+      "start_position": 56181,
+      "end_position": 56235,
+      "length": 54,
+      "matched_keywords": [
+        "неравенств",
+        "неравенства"
+      ]
+    },
+    {
+      "text": "[20] Виноградов О. Л., Точные неравенства",
+      "page": 43,
+      "start_position": 56628,
+      "end_position": 56669,
+      "length": 41,
+      "matched_keywords": [
+        "неравенств",
+        "неравенства"
+      ]
+    },
+    {
+      "text": "[21] Мерлина Н. И., К вопросу о точных оценках для полунорм и наилуч­",
+      "page": 43,
+      "start_position": 56811,
+      "end_position": 56880,
+      "length": 69,
+      "matched_keywords": [
+        "оценка"
+      ]
+    },
+    {
+      "text": "[22] Виноградов О. Л., Ж у к В. В., Точные оценки отклонений",
+      "page": 43,
+      "start_position": 57039,
+      "end_position": 57099,
+      "length": 60,
+      "matched_keywords": [
+        "оценки"
+      ]
+    }
+  ]
+}

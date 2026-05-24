@@ -1,0 +1,995 @@
+{
+  "source_file": "smj882.pdf",
+  "metadata": {
+    "file": "smj882.pdf",
+    "pages": 10,
+    "title": "Оценки решения одного дифференциального неравенства",
+    "author": "Романов В. Г."
+  },
+  "extraction_info": {
+    "keywords_used": [
+      "неравенств",
+      "неравенства",
+      "оценка",
+      "оценки",
+      "неравенство",
+      "оценку",
+      "оценивается",
+      "≤",
+      "≥",
+      "граница"
+    ],
+    "total_sentences_found": 92,
+    "total_text_length": 22904
+  },
+  "sentences": [
+    {
+      "text": "второго порядка с коэффициентами, зависящими только от x ∈Rn, n ≥2, а в",
+      "page": 1,
+      "start_position": 312,
+      "end_position": 383,
+      "length": 71,
+      "matched_keywords": [
+        "≥"
+      ]
+    },
+    {
+      "text": "правой — модуль градиента искомой функции. Неравенство дополняется данными",
+      "page": 1,
+      "start_position": 384,
+      "end_position": 458,
+      "length": 74,
+      "matched_keywords": [
+        "неравенств",
+        "неравенство"
+      ]
+    },
+    {
+      "text": "оценки решения дифференциального неравенства, удовлетворяющего данным Ко-",
+      "page": 1,
+      "start_position": 538,
+      "end_position": 611,
+      "length": 73,
+      "matched_keywords": [
+        "неравенств",
+        "неравенства",
+        "оценки"
+      ]
+    },
+    {
+      "text": "искомая оценка установлена.",
+      "page": 1,
+      "start_position": 840,
+      "end_position": 867,
+      "length": 27,
+      "matched_keywords": [
+        "оценка"
+      ]
+    },
+    {
+      "text": "с некоторыми постоянными µ0, µ00. Пусть D =  × (−T, T ) ⊂Rn+1, n ≥2,",
+      "page": 1,
+      "start_position": 1462,
+      "end_position": 1531,
+      "length": 69,
+      "matched_keywords": [
+        "≥"
+      ]
+    },
+    {
+      "text": "Рассмотрим дифференциальное неравенство",
+      "page": 1,
+      "start_position": 1703,
+      "end_position": 1742,
+      "length": 39,
+      "matched_keywords": [
+        "неравенств",
+        "неравенство"
+      ]
+    },
+    {
+      "text": "Оценки решения одного дифференциального неравенства",
+      "page": 2,
+      "start_position": 2013,
+      "end_position": 2064,
+      "length": 51,
+      "matched_keywords": [
+        "неравенств",
+        "неравенства",
+        "оценки"
+      ]
+    },
+    {
+      "text": "неравенству (1. 3), обладает на S данными Коши",
+      "page": 2,
+      "start_position": 2222,
+      "end_position": 2268,
+      "length": 46,
+      "matched_keywords": [
+        "неравенств"
+      ]
+    },
+    {
+      "text": "найти оценку функции u(x, t) внутри D.",
+      "page": 2,
+      "start_position": 2311,
+      "end_position": 2349,
+      "length": 38,
+      "matched_keywords": [
+        "оценку"
+      ]
+    },
+    {
+      "text": "проблема построения в D оценки устойчивости решения задачи Коши с данны-",
+      "page": 2,
+      "start_position": 2382,
+      "end_position": 2454,
+      "length": 72,
+      "matched_keywords": [
+        "оценки"
+      ]
+    },
+    {
+      "text": "некоторой постоянной. Оценки устойчивости решения задачи Коши находят",
+      "page": 2,
+      "start_position": 2753,
+      "end_position": 2822,
+      "length": 69,
+      "matched_keywords": [
+        "оценки"
+      ]
+    },
+    {
+      "text": "шатского (см. [1, 2]). Им найдены г¨ельдеровские оценки устойчивости. Затем",
+      "page": 2,
+      "start_position": 3068,
+      "end_position": 3143,
+      "length": 75,
+      "matched_keywords": [
+        "оценки"
+      ]
+    },
+    {
+      "text": "оценки решения задачи (1. 3), (1. 4) для оператора L = ∂2/∂t 2 − (в связи с по-",
+      "page": 2,
+      "start_position": 3213,
+      "end_position": 3293,
+      "length": 80,
+      "matched_keywords": [
+        "оценки"
+      ]
+    },
+    {
+      "text": "добными оценками см. также книгу [4] и статью [5]). Для более общих операто-",
+      "page": 2,
+      "start_position": 3294,
+      "end_position": 3370,
+      "length": 76,
+      "matched_keywords": [
+        "оценка"
+      ]
+    },
+    {
+      "text": "ров L, когда коэффициенты aij не являются постоянными, оценки построены на",
+      "page": 2,
+      "start_position": 3371,
+      "end_position": 3445,
+      "length": 74,
+      "matched_keywords": [
+        "оценки"
+      ]
+    },
+    {
+      "text": "Ниже, при построении оценки для задачи (1. 3), (1. 4), использована лемма,",
+      "page": 2,
+      "start_position": 4109,
+      "end_position": 4183,
+      "length": 74,
+      "matched_keywords": [
+        "оценки"
+      ]
+    },
+    {
+      "text": "Rn | s(x, x 0) ≤ρ} — замкнутый риманов шар с центром в точке x 0 и радиусом ρ.",
+      "page": 3,
+      "start_position": 5118,
+      "end_position": 5196,
+      "length": 78,
+      "matched_keywords": [
+        "≤"
+      ]
+    },
+    {
+      "text": "считать, что aij(x) ∈C 4(0) и неравенства (1. 2) выполнены в 0.",
+      "page": 3,
+      "start_position": 5271,
+      "end_position": 5336,
+      "length": 65,
+      "matched_keywords": [
+        "неравенств",
+        "неравенства"
+      ]
+    },
+    {
+      "text": "янная. Тогда в области D 0 = D 0(y, ϕ0, p) = {(x, t) ∈ × R | ϕ(x, t, y) ≥ϕ0}",
+      "page": 3,
+      "start_position": 6482,
+      "end_position": 6559,
+      "length": 77,
+      "matched_keywords": [
+        "≥"
+      ]
+    },
+    {
+      "text": "причем для P, Q и R верны оценки",
+      "page": 3,
+      "start_position": 6684,
+      "end_position": 6716,
+      "length": 32,
+      "matched_keywords": [
+        "оценки"
+      ]
+    },
+    {
+      "text": "оценка решения задачи (1. 3), (1. 4).",
+      "page": 3,
+      "start_position": 7033,
+      "end_position": 7070,
+      "length": 37,
+      "matched_keywords": [
+        "оценка"
+      ]
+    },
+    {
+      "text": "Оценки решения одного дифференциального неравенства",
+      "page": 4,
+      "start_position": 7220,
+      "end_position": 7271,
+      "length": 51,
+      "matched_keywords": [
+        "неравенств",
+        "неравенства",
+        "оценки"
+      ]
+    },
+    {
+      "text": "m, ρ, T и C 4(0)-нормы коэффициентов aij(x), такая, что справедлива оценка",
+      "page": 4,
+      "start_position": 7353,
+      "end_position": 7428,
+      "length": 75,
+      "matched_keywords": [
+        "оценка"
+      ]
+    },
+    {
+      "text": "кривизны, имеет место равенство m = 1. При этом оценка T > ρ временн´ого",
+      "page": 4,
+      "start_position": 7609,
+      "end_position": 7681,
+      "length": 72,
+      "matched_keywords": [
+        "оценка"
+      ]
+    },
+    {
+      "text": "интервала оптимальна, так как для T < ρ неравенство (1. 10) заведомо неверно.",
+      "page": 4,
+      "start_position": 7682,
+      "end_position": 7759,
+      "length": 77,
+      "matched_keywords": [
+        "неравенств",
+        "неравенство"
+      ]
+    },
+    {
+      "text": "Прямым следствием теоремы 1. 1 и метода энергетических неравенств яв-",
+      "page": 4,
+      "start_position": 7760,
+      "end_position": 7829,
+      "length": 69,
+      "matched_keywords": [
+        "неравенств"
+      ]
+    },
+    {
+      "text": "нормы коэффициентов aij(x), такая, что справедлива оценка",
+      "page": 4,
+      "start_position": 7987,
+      "end_position": 8044,
+      "length": 57,
+      "matched_keywords": [
+        "оценка"
+      ]
+    },
+    {
+      "text": "перболических уравнений оказываются необходимыми оценки решения зада-",
+      "page": 4,
+      "start_position": 8225,
+      "end_position": 8294,
+      "length": 69,
+      "matched_keywords": [
+        "оценки"
+      ]
+    },
+    {
+      "text": "0. Пусть в области G выполнено дифференциальное неравенство, аналогичное",
+      "page": 4,
+      "start_position": 8959,
+      "end_position": 9032,
+      "length": 73,
+      "matched_keywords": [
+        "неравенств",
+        "неравенство"
+      ]
+    },
+    {
+      "text": "В этом случае оказывается верна следующая оценка, обобщающая резуль-",
+      "page": 4,
+      "start_position": 9183,
+      "end_position": 9251,
+      "length": 68,
+      "matched_keywords": [
+        "оценка"
+      ]
+    },
+    {
+      "text": "коэффициентов aij(x), такая, что имеет место оценка",
+      "page": 5,
+      "start_position": 9680,
+      "end_position": 9731,
+      "length": 51,
+      "matched_keywords": [
+        "оценка"
+      ]
+    },
+    {
+      "text": "бы выполнялись неравенства ρ < √p T < √m T . Рассмотрим произвольную пря-",
+      "page": 5,
+      "start_position": 10535,
+      "end_position": 10608,
+      "length": 73,
+      "matched_keywords": [
+        "неравенств",
+        "неравенства"
+      ]
+    },
+    {
+      "text": "s 2(x, y(j)) −pt 2 ≥kσ}, k = 1, 2, 3, 4.",
+      "page": 5,
+      "start_position": 11250,
+      "end_position": 11290,
+      "length": 40,
+      "matched_keywords": [
+        "≥"
+      ]
+    },
+    {
+      "text": "индексом. Введем в рассмотрение функцию χ(x, t) ∈C 2(Rn+1) такую, что 0 ≤",
+      "page": 5,
+      "start_position": 11476,
+      "end_position": 11549,
+      "length": 73,
+      "matched_keywords": [
+        "≤"
+      ]
+    },
+    {
+      "text": "χ(x, t) ≤1, χ(x, t) = 0 в D \\ D 1(y(j)) и χ(x, t) = 1 в D 2(y(j)). Таким образом,",
+      "page": 5,
+      "start_position": 11550,
+      "end_position": 11631,
+      "length": 81,
+      "matched_keywords": [
+        "≤"
+      ]
+    },
+    {
+      "text": "Полагая, что функция u(x, t) удовлетворяет неравенству (1. 3), находим, что для",
+      "page": 5,
+      "start_position": 11880,
+      "end_position": 11959,
+      "length": 79,
+      "matched_keywords": [
+        "неравенств"
+      ]
+    },
+    {
+      "text": "для любых достаточно больших τ справедливо неравенство",
+      "page": 6,
+      "start_position": 12394,
+      "end_position": 12448,
+      "length": 54,
+      "matched_keywords": [
+        "неравенств",
+        "неравенство"
+      ]
+    },
+    {
+      "text": "Оценки решения одного дифференциального неравенства",
+      "page": 6,
+      "start_position": 12487,
+      "end_position": 12538,
+      "length": 51,
+      "matched_keywords": [
+        "неравенств",
+        "неравенства",
+        "оценки"
+      ]
+    },
+    {
+      "text": "в котором ϕ = s 2(x, y(j)) −pt 2, а для P, Q и R верны оценки",
+      "page": 6,
+      "start_position": 12543,
+      "end_position": 12604,
+      "length": 61,
+      "matched_keywords": [
+        "оценки"
+      ]
+    },
+    {
+      "text": "Объединяя оценки (2. 2), (2. 4), приходим к неравенству",
+      "page": 6,
+      "start_position": 12855,
+      "end_position": 12910,
+      "length": 55,
+      "matched_keywords": [
+        "неравенств",
+        "оценки"
+      ]
+    },
+    {
+      "text": "и поэтому для всех достаточно больших τ допускает оценку",
+      "page": 6,
+      "start_position": 13081,
+      "end_position": 13137,
+      "length": 56,
+      "matched_keywords": [
+        "оценку"
+      ]
+    },
+    {
+      "text": "Интегрируя неравенство (2. 5) по области D 1(y(j)), применяя формулу Гаус-",
+      "page": 6,
+      "start_position": 13219,
+      "end_position": 13293,
+      "length": 74,
+      "matched_keywords": [
+        "неравенств",
+        "неравенство"
+      ]
+    },
+    {
+      "text": "ниченной поверхностью уровня ϕ = σ, приходим к неравенству",
+      "page": 6,
+      "start_position": 13442,
+      "end_position": 13500,
+      "length": 58,
+      "matched_keywords": [
+        "неравенств"
+      ]
+    },
+    {
+      "text": "τ ≥τ0 ≥1. В неравенстве (2. 7) S(y(j)) = {(x, t) | x ∈∂, s 2(x, y(j)) −pt 2 ≥σ} —",
+      "page": 6,
+      "start_position": 13752,
+      "end_position": 13834,
+      "length": 82,
+      "matched_keywords": [
+        "неравенств",
+        "≥"
+      ]
+    },
+    {
+      "text": "Оценим отдельно интегралы, входящие в это неравенство. По условиям",
+      "page": 6,
+      "start_position": 13924,
+      "end_position": 13990,
+      "length": 66,
+      "matched_keywords": [
+        "неравенств",
+        "неравенство"
+      ]
+    },
+    {
+      "text": "выбора точки y(j) и функции v(x, t) справедливы оценки вида",
+      "page": 6,
+      "start_position": 13991,
+      "end_position": 14050,
+      "length": 59,
+      "matched_keywords": [
+        "оценки"
+      ]
+    },
+    {
+      "text": "e 2τϕF 2(x, t) dxdt ≤e 2τm T 2 Z",
+      "page": 7,
+      "start_position": 14151,
+      "end_position": 14183,
+      "length": 32,
+      "matched_keywords": [
+        "≤"
+      ]
+    },
+    {
+      "text": "для τ ≥τ0 с некоторой постоянной C > 0.",
+      "page": 7,
+      "start_position": 14208,
+      "end_position": 14247,
+      "length": 39,
+      "matched_keywords": [
+        "≥"
+      ]
+    },
+    {
+      "text": "справедлива оценка ϕ ≤2σ. Поэтому",
+      "page": 7,
+      "start_position": 14277,
+      "end_position": 14310,
+      "length": 33,
+      "matched_keywords": [
+        "оценка",
+        "≤"
+      ]
+    },
+    {
+      "text": "В левой части неравенства (2. 7) будем интегрировать по более узкой области",
+      "page": 7,
+      "start_position": 14423,
+      "end_position": 14498,
+      "length": 75,
+      "matched_keywords": [
+        "неравенств",
+        "неравенства"
+      ]
+    },
+    {
+      "text": "D 3(y(j)). В этой области справедлива оценка ϕ ≥3σ и функция v(x, t) совпадает",
+      "page": 7,
+      "start_position": 14499,
+      "end_position": 14577,
+      "length": 78,
+      "matched_keywords": [
+        "оценка",
+        "≥"
+      ]
+    },
+    {
+      "text": "с u(x, t), поэтому верно неравенство",
+      "page": 7,
+      "start_position": 14578,
+      "end_position": 14614,
+      "length": 36,
+      "matched_keywords": [
+        "неравенств",
+        "неравенство"
+      ]
+    },
+    {
+      "text": "ведлива оценка |t| ≥",
+      "page": 7,
+      "start_position": 14860,
+      "end_position": 14880,
+      "length": 20,
+      "matched_keywords": [
+        "оценка",
+        "≥"
+      ]
+    },
+    {
+      "text": "Тогда из неравенства (2. 10) следует, что",
+      "page": 7,
+      "start_position": 15021,
+      "end_position": 15062,
+      "length": 41,
+      "matched_keywords": [
+        "неравенств",
+        "неравенства"
+      ]
+    },
+    {
+      "text": "Результатом полученных выше оценок является итоговое неравенство",
+      "page": 7,
+      "start_position": 15161,
+      "end_position": 15225,
+      "length": 64,
+      "matched_keywords": [
+        "неравенств",
+        "неравенство"
+      ]
+    },
+    {
+      "text": "Тогда неравенство (2. 12) после деления на выражение τe 6τσ и некоторого огруб-",
+      "page": 7,
+      "start_position": 15459,
+      "end_position": 15538,
+      "length": 79,
+      "matched_keywords": [
+        "неравенств",
+        "неравенство"
+      ]
+    },
+    {
+      "text": "ления оценок можно переписать для τ ≥τ0 ≥1 в виде",
+      "page": 7,
+      "start_position": 15539,
+      "end_position": 15588,
+      "length": 49,
+      "matched_keywords": [
+        "≥"
+      ]
+    },
+    {
+      "text": "Замечая, что Dh(y(1)) ∪Dh(y(2)) =  × (−h, h) ≡Dh, приходим к неравенству",
+      "page": 7,
+      "start_position": 15666,
+      "end_position": 15739,
+      "length": 73,
+      "matched_keywords": [
+        "неравенств"
+      ]
+    },
+    {
+      "text": "Дальнейшие оценки связаны с использованием энергетических неравенств.",
+      "page": 8,
+      "start_position": 15811,
+      "end_position": 15880,
+      "length": 69,
+      "matched_keywords": [
+        "неравенств",
+        "оценки"
+      ]
+    },
+    {
+      "text": "t + (Lu)2 ≤(C 0 + 1)",
+      "page": 8,
+      "start_position": 15916,
+      "end_position": 15936,
+      "length": 20,
+      "matched_keywords": [
+        "≤"
+      ]
+    },
+    {
+      "text": "Оценки решения одного дифференциального неравенства",
+      "page": 8,
+      "start_position": 16207,
+      "end_position": 16258,
+      "length": 51,
+      "matched_keywords": [
+        "неравенств",
+        "неравенства",
+        "оценки"
+      ]
+    },
+    {
+      "text": "Интегрируя это неравенство по слою { × (t 0, t)}, −T < t 0 < t < T , приходим к",
+      "page": 8,
+      "start_position": 16263,
+      "end_position": 16343,
+      "length": 80,
+      "matched_keywords": [
+        "неравенств",
+        "неравенство"
+      ]
+    },
+    {
+      "text": "Используя (1. 2) и очевидное неравенство",
+      "page": 8,
+      "start_position": 16559,
+      "end_position": 16599,
+      "length": 40,
+      "matched_keywords": [
+        "неравенств",
+        "неравенство"
+      ]
+    },
+    {
+      "text": "Поэтому неравенство (2. 19) можно переписать в виде",
+      "page": 8,
+      "start_position": 16790,
+      "end_position": 16841,
+      "length": 51,
+      "matched_keywords": [
+        "неравенств",
+        "неравенство"
+      ]
+    },
+    {
+      "text": "Из неравенства (2. 21) вытекает",
+      "page": 8,
+      "start_position": 16939,
+      "end_position": 16970,
+      "length": 31,
+      "matched_keywords": [
+        "неравенств",
+        "неравенства"
+      ]
+    },
+    {
+      "text": "I(t) ≤C(I(t 0) + δ2)e 2 C T ,",
+      "page": 8,
+      "start_position": 16978,
+      "end_position": 17007,
+      "length": 29,
+      "matched_keywords": [
+        "≤"
+      ]
+    },
+    {
+      "text": "Интегрируя неравенство (2. 22) по параметру t 0 в пределах от −h до h и",
+      "page": 8,
+      "start_position": 17065,
+      "end_position": 17136,
+      "length": 71,
+      "matched_keywords": [
+        "неравенств",
+        "неравенство"
+      ]
+    },
+    {
+      "text": "деля результат на 2 h, получаем вначале неравенство",
+      "page": 8,
+      "start_position": 17137,
+      "end_position": 17188,
+      "length": 51,
+      "matched_keywords": [
+        "неравенств",
+        "неравенство"
+      ]
+    },
+    {
+      "text": "из которого затем интегрированием по t находим оценку",
+      "page": 8,
+      "start_position": 17238,
+      "end_position": 17291,
+      "length": 53,
+      "matched_keywords": [
+        "оценку"
+      ]
+    },
+    {
+      "text": "Воспользуемся теперь неравенством (2. 15). Сравнивая его с полученным",
+      "page": 8,
+      "start_position": 17335,
+      "end_position": 17404,
+      "length": 69,
+      "matched_keywords": [
+        "неравенств",
+        "неравенство"
+      ]
+    },
+    {
+      "text": "неравенством (2. 24), заключаем, что справедливо соотношение",
+      "page": 8,
+      "start_position": 17405,
+      "end_position": 17465,
+      "length": 60,
+      "matched_keywords": [
+        "неравенств",
+        "неравенство"
+      ]
+    },
+    {
+      "text": "выполнено неравенство 1 > Ce−2τσ, и затем зафиксируем его. Тогда из (2. 25)",
+      "page": 9,
+      "start_position": 17609,
+      "end_position": 17684,
+      "length": 75,
+      "matched_keywords": [
+        "неравенств",
+        "неравенство"
+      ]
+    },
+    {
+      "text": "а из неравенства (2. 24) вытекает оценка (1. 10) для u(x, t) ∈C 2(D).",
+      "page": 9,
+      "start_position": 17726,
+      "end_position": 17795,
+      "length": 69,
+      "matched_keywords": [
+        "неравенств",
+        "неравенства",
+        "оценка"
+      ]
+    },
+    {
+      "text": "Заметим также, что из неравенств (2. 23), (2. 26) выводится оценка (1. 11)",
+      "page": 9,
+      "start_position": 17890,
+      "end_position": 17964,
+      "length": 74,
+      "matched_keywords": [
+        "неравенств",
+        "оценка"
+      ]
+    },
+    {
+      "text": "Из (1. 2) следует, что справедлива оценка",
+      "page": 9,
+      "start_position": 18280,
+      "end_position": 18321,
+      "length": 41,
+      "matched_keywords": [
+        "оценка"
+      ]
+    },
+    {
+      "text": "для них верны оценки",
+      "page": 9,
+      "start_position": 18589,
+      "end_position": 18609,
+      "length": 20,
+      "matched_keywords": [
+        "оценки"
+      ]
+    },
+    {
+      "text": "Получим оценку J(t) для всего интервала (t 1, t 2). Пусть вначале t ∈(T, t 2).",
+      "page": 9,
+      "start_position": 18652,
+      "end_position": 18730,
+      "length": 78,
+      "matched_keywords": [
+        "оценку"
+      ]
+    },
+    {
+      "text": "T и t = T . Граница этой области состоит из множеств (t), (T ), части S′(t)",
+      "page": 9,
+      "start_position": 18806,
+      "end_position": 18883,
+      "length": 77,
+      "matched_keywords": [
+        "граница"
+      ]
+    },
+    {
+      "text": "заключенных в этом слое. Воспользуемся неравенством (2. 18). Интегрируя его",
+      "page": 9,
+      "start_position": 18961,
+      "end_position": 19036,
+      "length": 75,
+      "matched_keywords": [
+        "неравенств",
+        "неравенство"
+      ]
+    },
+    {
+      "text": "по слою G(t), приходим к неравенству",
+      "page": 9,
+      "start_position": 19037,
+      "end_position": 19073,
+      "length": 36,
+      "matched_keywords": [
+        "неравенств"
+      ]
+    },
+    {
+      "text": "В этой связи левая часть неравенства (3. 3) может быть представлена в форме",
+      "page": 10,
+      "start_position": 19530,
+      "end_position": 19605,
+      "length": 75,
+      "matched_keywords": [
+        "неравенств",
+        "неравенства"
+      ]
+    },
+    {
+      "text": "а все неравенство переписано в виде",
+      "page": 10,
+      "start_position": 19659,
+      "end_position": 19694,
+      "length": 35,
+      "matched_keywords": [
+        "неравенств",
+        "неравенство"
+      ]
+    },
+    {
+      "text": "J 0(t) ≤(J(T ) + Cδ2)e C(t 2−T ) ≤C′δ2,",
+      "page": 10,
+      "start_position": 19781,
+      "end_position": 19820,
+      "length": 39,
+      "matched_keywords": [
+        "≤"
+      ]
+    },
+    {
+      "text": "Оценки решения одного дифференциального неравенства",
+      "page": 10,
+      "start_position": 19841,
+      "end_position": 19892,
+      "length": 51,
+      "matched_keywords": [
+        "неравенств",
+        "неравенства",
+        "оценки"
+      ]
+    },
+    {
+      "text": "гичная оценка верна для",
+      "page": 10,
+      "start_position": 19976,
+      "end_position": 19999,
+      "length": 23,
+      "matched_keywords": [
+        "оценка"
+      ]
+    },
+    {
+      "text": "Интегрируя это неравенство по интервалу (T, t 2), получаем неравенство",
+      "page": 10,
+      "start_position": 20088,
+      "end_position": 20158,
+      "length": 70,
+      "matched_keywords": [
+        "неравенств",
+        "неравенство"
+      ]
+    },
+    {
+      "text": "Аналогичным образом находится оценка функции u(x, t) в области G 1 —",
+      "page": 10,
+      "start_position": 20354,
+      "end_position": 20422,
+      "length": 68,
+      "matched_keywords": [
+        "оценка"
+      ]
+    },
+    {
+      "text": "В завершение доказательства заметим, что в области D имеет место оценка",
+      "page": 10,
+      "start_position": 20603,
+      "end_position": 20674,
+      "length": 71,
+      "matched_keywords": [
+        "оценка"
+      ]
+    },
+    {
+      "text": "тельная оценка функции u(x, t) в области G в виде (1. 16).",
+      "page": 10,
+      "start_position": 20751,
+      "end_position": 20809,
+      "length": 58,
+      "matched_keywords": [
+        "оценка"
+      ]
+    },
+    {
+      "text": "1. Шишатский С. П. Априорные оценки в задаче о продолжении волнового поля с цилин-",
+      "page": 10,
+      "start_position": 20826,
+      "end_position": 20908,
+      "length": 82,
+      "matched_keywords": [
+        "оценки"
+      ]
+    },
+    {
+      "text": "10. Романов В. Г. Карлемановские оценки для гиперболического уравнения второго поряд-",
+      "page": 10,
+      "start_position": 22336,
+      "end_position": 22421,
+      "length": 85,
+      "matched_keywords": [
+        "оценки"
+      ]
+    },
+    {
+      "text": "12. Романов В. Г. Оценка устойчивости решения волнового уравнения с данными Коши",
+      "page": 10,
+      "start_position": 22547,
+      "end_position": 22627,
+      "length": 80,
+      "matched_keywords": [
+        "оценка"
+      ]
+    }
+  ]
+}

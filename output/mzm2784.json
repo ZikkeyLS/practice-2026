@@ -1,0 +1,349 @@
+{
+  "source_file": "mzm2784.pdf",
+  "metadata": {
+    "file": "mzm2784.pdf",
+    "pages": 10,
+    "title": "НЕРАВЕНСТВА ТИПА БЕРНШТЕЙНА, ДЖЕКСОНА–НИКОЛЬСКОГО И ОЦЕНКИ НОРМНОРМ ПРОИЗВОДНЫХ ЯДЕР ДИРИХЛЕ",
+    "author": "М. Б. Сихов"
+  },
+  "extraction_info": {
+    "keywords_used": [
+      "неравенств",
+      "неравенства",
+      "оценка",
+      "оценки",
+      "неравенство",
+      "оценку",
+      "оценивается",
+      "≤",
+      "≥",
+      "граница"
+    ],
+    "total_sentences_found": 31,
+    "total_text_length": 16849
+  },
+  "sentences": [
+    {
+      "text": "Получены неравенства Бернштейна, Джексона–Никольского для тригоно-",
+      "page": 1,
+      "start_position": 255,
+      "end_position": 321,
+      "length": 66,
+      "matched_keywords": [
+        "неравенств",
+        "неравенства"
+      ]
+    },
+    {
+      "text": "стями уровня функции Λ(t), установлены оценки их норм в Lp.",
+      "page": 1,
+      "start_position": 532,
+      "end_position": 591,
+      "length": 59,
+      "matched_keywords": [
+        "оценки"
+      ]
+    },
+    {
+      "text": "пространства Lp) и неравенства Джексона–Никольского (связывающие нормы по-",
+      "page": 2,
+      "start_position": 2559,
+      "end_position": 2633,
+      "length": 74,
+      "matched_keywords": [
+        "неравенств",
+        "неравенства"
+      ]
+    },
+    {
+      "text": "Множества G(N) и Q(N) эквивалентны, а именно из неравенств",
+      "page": 3,
+      "start_position": 3576,
+      "end_position": 3634,
+      "length": 58,
+      "matched_keywords": [
+        "неравенств"
+      ]
+    },
+    {
+      "text": "удовлетворяющих этому неравенству,",
+      "page": 4,
+      "start_position": 5177,
+      "end_position": 5211,
+      "length": 34,
+      "matched_keywords": [
+        "неравенств"
+      ]
+    },
+    {
+      "text": "Наконец, учитывая, что log N ≍log M, собирая воедино все полученные оценки",
+      "page": 5,
+      "start_position": 7283,
+      "end_position": 7357,
+      "length": 74,
+      "matched_keywords": [
+        "оценки"
+      ]
+    },
+    {
+      "text": "Доказательство. Оценка сверху. Сначала заметим, что если 1 < q < ∞, γ ∈R",
+      "page": 6,
+      "start_position": 8147,
+      "end_position": 8219,
+      "length": 72,
+      "matched_keywords": [
+        "оценка"
+      ]
+    },
+    {
+      "text": "указанное неравенство. Здесь",
+      "page": 6,
+      "start_position": 8643,
+      "end_position": 8671,
+      "length": 28,
+      "matched_keywords": [
+        "неравенств",
+        "неравенство"
+      ]
+    },
+    {
+      "text": "т. е. оценка сверху в (3) доказана.",
+      "page": 6,
+      "start_position": 8924,
+      "end_position": 8959,
+      "length": 35,
+      "matched_keywords": [
+        "оценка"
+      ]
+    },
+    {
+      "text": "Оценка снизу. Отметим, что функция одной переменной δn(x) приводится к сле-",
+      "page": 6,
+      "start_position": 8960,
+      "end_position": 9035,
+      "length": 75,
+      "matched_keywords": [
+        "оценка"
+      ]
+    },
+    {
+      "text": "Из оценки 2 t/π ⩽sin t ⩽t при 0 ⩽t ⩽π/2 получаем, что",
+      "page": 7,
+      "start_position": 9145,
+      "end_position": 9198,
+      "length": 53,
+      "matched_keywords": [
+        "оценки"
+      ]
+    },
+    {
+      "text": "Следовательно, в силу оценки (6) имеем",
+      "page": 7,
+      "start_position": 9961,
+      "end_position": 9999,
+      "length": 38,
+      "matched_keywords": [
+        "оценки"
+      ]
+    },
+    {
+      "text": "Оценка снизу, а тем самым, теорема, полностью доказаны.",
+      "page": 7,
+      "start_position": 10068,
+      "end_position": 10123,
+      "length": 55,
+      "matched_keywords": [
+        "оценка"
+      ]
+    },
+    {
+      "text": "Наконец, оценивая как и выше, получим оценку сверху в (9).",
+      "page": 8,
+      "start_position": 10597,
+      "end_position": 10655,
+      "length": 58,
+      "matched_keywords": [
+        "оценку"
+      ]
+    },
+    {
+      "text": "Оценка снизу доказывается как в теореме 1.",
+      "page": 8,
+      "start_position": 10656,
+      "end_position": 10698,
+      "length": 42,
+      "matched_keywords": [
+        "оценка"
+      ]
+    },
+    {
+      "text": "Если же r < 0, то из теоремы 2 и леммы 4 из [3] вытекает следующая оценка:",
+      "page": 8,
+      "start_position": 11216,
+      "end_position": 11290,
+      "length": 74,
+      "matched_keywords": [
+        "оценка"
+      ]
+    },
+    {
+      "text": "Эти оценки ранее получены Э. М. Галеевым [3].",
+      "page": 8,
+      "start_position": 11372,
+      "end_position": 11417,
+      "length": 45,
+      "matched_keywords": [
+        "оценки"
+      ]
+    },
+    {
+      "text": "r(γ1, . . . , γs) есть целочисленный вектор, неравенство (10) сводится к результатам",
+      "page": 8,
+      "start_position": 12045,
+      "end_position": 12129,
+      "length": 84,
+      "matched_keywords": [
+        "неравенств",
+        "неравенство"
+      ]
+    },
+    {
+      "text": "Теорема 5. При 1 < p < q < ∞имеет место неравенство",
+      "page": 9,
+      "start_position": 12210,
+      "end_position": 12261,
+      "length": 51,
+      "matched_keywords": [
+        "неравенств",
+        "неравенство"
+      ]
+    },
+    {
+      "text": "Следовательно, пользуясь теоремой 4 и неравенством (см. [4; с. 9])",
+      "page": 9,
+      "start_position": 12574,
+      "end_position": 12640,
+      "length": 66,
+      "matched_keywords": [
+        "неравенств",
+        "неравенство"
+      ]
+    },
+    {
+      "text": "Замечание 3. Неравенство Джексона–Никольского для полиномов со спектром",
+      "page": 9,
+      "start_position": 12778,
+      "end_position": 12849,
+      "length": 71,
+      "matched_keywords": [
+        "неравенств",
+        "неравенство"
+      ]
+    },
+    {
+      "text": "ми (см., например, [4], [7]–[13]). В частности, неравенство (12) для полиномов со",
+      "page": 9,
+      "start_position": 12925,
+      "end_position": 13006,
+      "length": 81,
+      "matched_keywords": [
+        "неравенств",
+        "неравенство"
+      ]
+    },
+    {
+      "text": "Сравнение оценки (12) с другими известными оценками более подробно приведены",
+      "page": 9,
+      "start_position": 13086,
+      "end_position": 13162,
+      "length": 76,
+      "matched_keywords": [
+        "оценка",
+        "оценки"
+      ]
+    },
+    {
+      "text": "рядка неравенств типа Бернштейна и Джексона–Никольского. Приведем некоторые",
+      "page": 9,
+      "start_position": 13436,
+      "end_position": 13511,
+      "length": 75,
+      "matched_keywords": [
+        "неравенств"
+      ]
+    },
+    {
+      "text": "Доказательство. Оценки сверху сразу следуют из следствия 1 и леммы 2:",
+      "page": 9,
+      "start_position": 13681,
+      "end_position": 13750,
+      "length": 69,
+      "matched_keywords": [
+        "оценки"
+      ]
+    },
+    {
+      "text": "Для доказательства оценки снизу сначала заметим, что",
+      "page": 10,
+      "start_position": 13891,
+      "end_position": 13943,
+      "length": 52,
+      "matched_keywords": [
+        "оценки"
+      ]
+    },
+    {
+      "text": "Из последнего соотношения получим требуемую оценку снизу",
+      "page": 10,
+      "start_position": 14271,
+      "end_position": 14327,
+      "length": 56,
+      "matched_keywords": [
+        "оценку"
+      ]
+    },
+    {
+      "text": "[3] Э. М. Галеев, “Порядковые оценки производных периодического многомерного α-ядра",
+      "page": 10,
+      "start_position": 15107,
+      "end_position": 15190,
+      "length": 83,
+      "matched_keywords": [
+        "оценки"
+      ]
+    },
+    {
+      "text": "[7] С. М. Никольский, “Неравенства для целых функций конечной степени и их примене-",
+      "page": 10,
+      "start_position": 15628,
+      "end_position": 15711,
+      "length": 83,
+      "matched_keywords": [
+        "неравенств",
+        "неравенства"
+      ]
+    },
+    {
+      "text": "[11] В. А. Родин, “Неравенства для тригонометрических полиномов с лакунами в про-",
+      "page": 10,
+      "start_position": 16219,
+      "end_position": 16300,
+      "length": 81,
+      "matched_keywords": [
+        "неравенств",
+        "неравенства"
+      ]
+    },
+    {
+      "text": "[13] М. Б. Сихов, “О неравенствах Джексона–Никольского”, Вестник Каз ГУ. Сер. ма-",
+      "page": 10,
+      "start_position": 16558,
+      "end_position": 16639,
+      "length": 81,
+      "matched_keywords": [
+        "неравенств",
+        "неравенства"
+      ]
+    }
+  ]
+}

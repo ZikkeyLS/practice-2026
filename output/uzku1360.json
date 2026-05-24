@@ -1,0 +1,222 @@
+{
+  "source_file": "uzku1360.pdf",
+  "metadata": {
+    "file": "uzku1360.pdf",
+    "pages": 8,
+    "title": "ОЦЕНКИ ГРАДИЕНТА ГИПЕРБОЛИЧЕСКОГО РАДИУСА И НЕРАВЕНСТВА ТИПА ШВШВАРЦА – ПИКА ДЛЯ ЭКСЦЕНТРИЧЕСКОГО КОЛЬЦА",
+    "author": "Д.Х. Гиниятова"
+  },
+  "extraction_info": {
+    "keywords_used": [
+      "неравенств",
+      "неравенства",
+      "оценка",
+      "оценки",
+      "неравенство",
+      "оценку",
+      "оценивается",
+      "≤",
+      "≥",
+      "граница"
+    ],
+    "total_sentences_found": 19,
+    "total_text_length": 18650
+  },
+  "sentences": [
+    {
+      "text": "ются оценки высших производных |f (n)(z)| аналитических функций из класса A(Ω, Π)",
+      "page": 1,
+      "start_position": 681,
+      "end_position": 762,
+      "length": 81,
+      "matched_keywords": [
+        "оценки"
+      ]
+    },
+    {
+      "text": "с штрафным множителем Cn(Ω, Π). Эти оценки принято называть неравенствами типа",
+      "page": 1,
+      "start_position": 763,
+      "end_position": 841,
+      "length": 78,
+      "matched_keywords": [
+        "неравенств",
+        "неравенства",
+        "оценки"
+      ]
+    },
+    {
+      "text": "соответствующих областей. В настоящей работе получены оценки градиента гиперболи-",
+      "page": 1,
+      "start_position": 1176,
+      "end_position": 1257,
+      "length": 81,
+      "matched_keywords": [
+        "оценки"
+      ]
+    },
+    {
+      "text": "ческого радиуса и штрафного множителя в неравенстве типа Шварца – Пика для экс-",
+      "page": 1,
+      "start_position": 1258,
+      "end_position": 1337,
+      "length": 79,
+      "matched_keywords": [
+        "неравенств"
+      ]
+    },
+    {
+      "text": "Ключевые слова: метрика Пуанкаре, неравенства типа Шварца – Пика, конформные",
+      "page": 1,
+      "start_position": 1429,
+      "end_position": 1505,
+      "length": 76,
+      "matched_keywords": [
+        "неравенств",
+        "неравенства"
+      ]
+    },
+    {
+      "text": "и для областей, граница которых содержит не менее трех точек в C, см. [1, 2].",
+      "page": 1,
+      "start_position": 1957,
+      "end_position": 2034,
+      "length": 77,
+      "matched_keywords": [
+        "граница"
+      ]
+    },
+    {
+      "text": "≤Ln(f, z, Ω, Π)(λΩ(z))n",
+      "page": 2,
+      "start_position": 2399,
+      "end_position": 2422,
+      "length": 23,
+      "matched_keywords": [
+        "≤"
+      ]
+    },
+    {
+      "text": "z ∈Ωи представляет собой наименьшее возможное число в неравенстве",
+      "page": 2,
+      "start_position": 2744,
+      "end_position": 2809,
+      "length": 65,
+      "matched_keywords": [
+        "неравенств"
+      ]
+    },
+    {
+      "text": "Большинство результатов по неравенствам типа Шварца – Пика, связанных с на-",
+      "page": 2,
+      "start_position": 3021,
+      "end_position": 3096,
+      "length": 75,
+      "matched_keywords": [
+        "неравенств",
+        "неравенства"
+      ]
+    },
+    {
+      "text": "t ∈[0, 1) справедлива следующая точная оценка:",
+      "page": 4,
+      "start_position": 6551,
+      "end_position": 6597,
+      "length": 46,
+      "matched_keywords": [
+        "оценка"
+      ]
+    },
+    {
+      "text": "|∇R(z, Ω)| ≤|∇R(ζ, Aq)| + R(ζ, Aq)",
+      "page": 4,
+      "start_position": 6928,
+      "end_position": 6962,
+      "length": 34,
+      "matched_keywords": [
+        "≤"
+      ]
+    },
+    {
+      "text": "R(ζ, Aq) ≤R(ζ, ∆) = 1 −|ζ|2 = 1 −r 2.",
+      "page": 4,
+      "start_position": 7199,
+      "end_position": 7236,
+      "length": 37,
+      "matched_keywords": [
+        "≤"
+      ]
+    },
+    {
+      "text": "0 < |z| < 1. Очевидно, −∞≤ln |z| + 1 ≤1 и ln |z| + 1 = 0 при",
+      "page": 5,
+      "start_position": 8776,
+      "end_position": 8836,
+      "length": 60,
+      "matched_keywords": [
+        "≤"
+      ]
+    },
+    {
+      "text": "можем получить оценку сверху. Вернемся теперь к рассмотрению круга с произ-",
+      "page": 5,
+      "start_position": 9027,
+      "end_position": 9102,
+      "length": 75,
+      "matched_keywords": [
+        "оценку"
+      ]
+    },
+    {
+      "text": "|∇R(z, Da)| ≤|∇R(ζ, D 0)| + R(ζ, D 0)",
+      "page": 5,
+      "start_position": 9167,
+      "end_position": 9204,
+      "length": 37,
+      "matched_keywords": [
+        "≤"
+      ]
+    },
+    {
+      "text": "смысле, что для нее невозможно получить оценку сверху для модуля градиента",
+      "page": 5,
+      "start_position": 9383,
+      "end_position": 9457,
+      "length": 74,
+      "matched_keywords": [
+        "оценку"
+      ]
+    },
+    {
+      "text": "Гиниятова Д. Х. Обобщение теорем Саца и Рушевея о точных оценках производных",
+      "page": 6,
+      "start_position": 11260,
+      "end_position": 11336,
+      "length": 76,
+      "matched_keywords": [
+        "оценка"
+      ]
+    },
+    {
+      "text": "* Для цитирования: Гиниятова Д. Х. Оценки градиента гиперболического радиуса",
+      "page": 8,
+      "start_position": 18150,
+      "end_position": 18226,
+      "length": 76,
+      "matched_keywords": [
+        "оценки"
+      ]
+    },
+    {
+      "text": "и неравенства типа Шварца – Пика для эксцентрического кольца // Учен. зап. Казан.",
+      "page": 8,
+      "start_position": 18227,
+      "end_position": 18308,
+      "length": 81,
+      "matched_keywords": [
+        "неравенств",
+        "неравенства"
+      ]
+    }
+  ]
+}

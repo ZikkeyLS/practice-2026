@@ -1,0 +1,1509 @@
+{
+  "source_file": "aa397.pdf",
+  "metadata": {
+    "file": "aa397.pdf",
+    "pages": 64,
+    "title": "ЛОКАЛЬНЫЕ ОЦЕНКИ ЭКСПОНЕНЦИАЛЬНЫХ ПОЛИНОМОВ И ИХ ПРИЛОЖЕНИЯ К ННЕРАВЕНСТВАМ ТИПА ПРИНЦИПА НЕОПРЕДЕЛЕННОСТИ",
+    "author": "Ф. Л. Назаров"
+  },
+  "extraction_info": {
+    "keywords_used": [
+      "неравенств",
+      "неравенства",
+      "оценка",
+      "оценки",
+      "неравенство",
+      "оценку",
+      "оценивается",
+      "≤",
+      "≥",
+      "граница"
+    ],
+    "total_sentences_found": 143,
+    "total_text_length": 120750
+  },
+  "sentences": [
+    {
+      "text": "Статья посвящена неравенствам для экспоненциальных полиномов типа леммы Ту-",
+      "page": 1,
+      "start_position": 220,
+      "end_position": 295,
+      "length": 75,
+      "matched_keywords": [
+        "неравенств",
+        "неравенства"
+      ]
+    },
+    {
+      "text": "анализе типа принципа неопределенности. Доказана оценка максимума модуля экс­",
+      "page": 1,
+      "start_position": 371,
+      "end_position": 448,
+      "length": 77,
+      "matched_keywords": [
+        "оценка"
+      ]
+    },
+    {
+      "text": "В качестве приложений доказываются неравенство",
+      "page": 1,
+      "start_position": 604,
+      "end_position": 650,
+      "length": 46,
+      "matched_keywords": [
+        "неравенств",
+        "неравенство"
+      ]
+    },
+    {
+      "text": "Глава 1. Оценки экспоненциальных полиномов",
+      "page": 1,
+      "start_position": 904,
+      "end_position": 946,
+      "length": 42,
+      "matched_keywords": [
+        "оценки"
+      ]
+    },
+    {
+      "text": "§1. 3. Доказательство оценки (1. 1) в одном частном случае",
+      "page": 1,
+      "start_position": 1006,
+      "end_position": 1064,
+      "length": 58,
+      "matched_keywords": [
+        "оценки"
+      ]
+    },
+    {
+      "text": "§3. 3. Лемма о распространении оценки",
+      "page": 2,
+      "start_position": 1795,
+      "end_position": 1832,
+      "length": 37,
+      "matched_keywords": [
+        "оценки"
+      ]
+    },
+    {
+      "text": "§4. 1. Оценки экспоненциальных полиномов с произвольными",
+      "page": 2,
+      "start_position": 1951,
+      "end_position": 2007,
+      "length": 56,
+      "matched_keywords": [
+        "оценки"
+      ]
+    },
+    {
+      "text": "открытыми. Среди них — вопрос о хороших оценках максимума экспоненциально­",
+      "page": 2,
+      "start_position": 2462,
+      "end_position": 2536,
+      "length": 74,
+      "matched_keywords": [
+        "оценка"
+      ]
+    },
+    {
+      "text": "Основу всей статьи составляет гл. 1, посвященная оценкам экспоненциальных",
+      "page": 3,
+      "start_position": 5137,
+      "end_position": 5210,
+      "length": 73,
+      "matched_keywords": [
+        "оценка"
+      ]
+    },
+    {
+      "text": "Глава 1. Оценки экспоненциальных полиномов",
+      "page": 5,
+      "start_position": 9483,
+      "end_position": 9525,
+      "length": 42,
+      "matched_keywords": [
+        "оценки"
+      ]
+    },
+    {
+      "text": "Основной целью этой главы является доказательство неравенства",
+      "page": 5,
+      "start_position": 9527,
+      "end_position": 9588,
+      "length": 61,
+      "matched_keywords": [
+        "неравенств",
+        "неравенства"
+      ]
+    },
+    {
+      "text": "ящему моменту, если бы судьба не распорядилась иначе. Впервые оценка (1. 1)",
+      "page": 6,
+      "start_position": 9980,
+      "end_position": 10055,
+      "length": 75,
+      "matched_keywords": [
+        "оценка"
+      ]
+    },
+    {
+      "text": "неравенств для сумм степеней п комплексных чисел. А именно, Туран доказал",
+      "page": 6,
+      "start_position": 10131,
+      "end_position": 10204,
+      "length": 73,
+      "matched_keywords": [
+        "неравенств"
+      ]
+    },
+    {
+      "text": "участвует в образовании 7 ь получаем оценку",
+      "page": 6,
+      "start_position": 11443,
+      "end_position": 11486,
+      "length": 43,
+      "matched_keywords": [
+        "оценку"
+      ]
+    },
+    {
+      "text": "Непосредственным следствием (1. 2) является неравенство",
+      "page": 6,
+      "start_position": 11570,
+      "end_position": 11625,
+      "length": 55,
+      "matched_keywords": [
+        "неравенств",
+        "неравенство"
+      ]
+    },
+    {
+      "text": "В самом деле, неравенство |р(*о)| ^ 2 nmaxte E |р(*)1 имеет место, если только ^о",
+      "page": 7,
+      "start_position": 12238,
+      "end_position": 12319,
+      "length": 81,
+      "matched_keywords": [
+        "неравенств",
+        "неравенство"
+      ]
+    },
+    {
+      "text": "Поскольку основная идея рассуждения (оценка вдоль арифметических прогрессий)",
+      "page": 8,
+      "start_position": 14484,
+      "end_position": 14560,
+      "length": 76,
+      "matched_keywords": [
+        "оценка"
+      ]
+    },
+    {
+      "text": "ной, постольку неравенство (1. 3) следует также считать принадлежащим Турану и",
+      "page": 8,
+      "start_position": 14718,
+      "end_position": 14796,
+      "length": 78,
+      "matched_keywords": [
+        "неравенств",
+        "неравенство"
+      ]
+    },
+    {
+      "text": "Часто представляет интерес оценка сверху не max<€/ \\p(t)\\, а суммы модулей",
+      "page": 8,
+      "start_position": 14818,
+      "end_position": 14892,
+      "length": 74,
+      "matched_keywords": [
+        "оценка"
+      ]
+    },
+    {
+      "text": "оценка может быть выведена из (1. 1) или (1. 3) с помощью хорошо известного",
+      "page": 8,
+      "start_position": 15059,
+      "end_position": 15134,
+      "length": 75,
+      "matched_keywords": [
+        "оценка"
+      ]
+    },
+    {
+      "text": "Если отрезок I слишком мал для применения неравенства Салема, то можно",
+      "page": 8,
+      "start_position": 15222,
+      "end_position": 15292,
+      "length": 70,
+      "matched_keywords": [
+        "неравенств",
+        "неравенства"
+      ]
+    },
+    {
+      "text": "приводилась бы оценка, существенно лучшая, чем",
+      "page": 9,
+      "start_position": 15666,
+      "end_position": 15712,
+      "length": 46,
+      "matched_keywords": [
+        "оценка"
+      ]
+    },
+    {
+      "text": "в дальнейшем. Первое из них — оценка слабого типа для логарифмической про­",
+      "page": 9,
+      "start_position": 15884,
+      "end_position": 15958,
+      "length": 74,
+      "matched_keywords": [
+        "оценка"
+      ]
+    },
+    {
+      "text": "Замечание. Стоит отметить, что -j^log P(z) = **р,\\ , а значит, на неравенства",
+      "page": 9,
+      "start_position": 16463,
+      "end_position": 16540,
+      "length": 77,
+      "matched_keywords": [
+        "неравенств",
+        "неравенства"
+      ]
+    },
+    {
+      "text": "леммы можно смотреть, как на разновидность оценки С. Н. Бернштейна для про­",
+      "page": 9,
+      "start_position": 16542,
+      "end_position": 16617,
+      "length": 75,
+      "matched_keywords": [
+        "оценки"
+      ]
+    },
+    {
+      "text": "Доказательство леммы 1. 2. Мы начнем с неравенства для прямой. Пусть",
+      "page": 9,
+      "start_position": 16934,
+      "end_position": 17002,
+      "length": 68,
+      "matched_keywords": [
+        "неравенств",
+        "неравенства"
+      ]
+    },
+    {
+      "text": "Объединяя эти оценки, получаем:",
+      "page": 10,
+      "start_position": 18079,
+      "end_position": 18110,
+      "length": 31,
+      "matched_keywords": [
+        "оценки"
+      ]
+    },
+    {
+      "text": "существу ничем не отличается от случая прямой: после установления неравенства",
+      "page": 10,
+      "start_position": 18407,
+      "end_position": 18484,
+      "length": 77,
+      "matched_keywords": [
+        "неравенств",
+        "неравенства"
+      ]
+    },
+    {
+      "text": "внешности единичного круга, и выводится оценка",
+      "page": 10,
+      "start_position": 18577,
+      "end_position": 18623,
+      "length": 46,
+      "matched_keywords": [
+        "оценка"
+      ]
+    },
+    {
+      "text": "пользовать другое неравенство:",
+      "page": 11,
+      "start_position": 18862,
+      "end_position": 18892,
+      "length": 30,
+      "matched_keywords": [
+        "неравенств",
+        "неравенство"
+      ]
+    },
+    {
+      "text": "лучить оценку ^{1 X^1 > У} ^ * ^ > м ы м о ж е м ограничиться значениями у > п 2.",
+      "page": 11,
+      "start_position": 19019,
+      "end_position": 19100,
+      "length": 81,
+      "matched_keywords": [
+        "оценку"
+      ]
+    },
+    {
+      "text": "Для получения желаемой оценки остается проверить, что для всех в е [0, f ] ж, 2",
+      "page": 11,
+      "start_position": 19618,
+      "end_position": 19697,
+      "length": 79,
+      "matched_keywords": [
+        "оценки"
+      ]
+    },
+    {
+      "text": "£ sin в. Но это равносильно неравенству ^^- + £ sin в ^ 1 а учитывая, что sin 0 ^",
+      "page": 11,
+      "start_position": 19705,
+      "end_position": 19786,
+      "length": 81,
+      "matched_keywords": [
+        "неравенств"
+      ]
+    },
+    {
+      "text": "Как и в случае прямой, оценка X X ^ получается объединением оценок Yli(z)",
+      "page": 11,
+      "start_position": 19972,
+      "end_position": 20045,
+      "length": 73,
+      "matched_keywords": [
+        "оценка"
+      ]
+    },
+    {
+      "text": "аргумента для оценки количества нулей p(z) в прямоугольнике Q = { z : хо <",
+      "page": 11,
+      "start_position": 20321,
+      "end_position": 20395,
+      "length": 74,
+      "matched_keywords": [
+        "оценки"
+      ]
+    },
+    {
+      "text": "{(у : у £ R} и тем самым |А/;. argp(a: 0 4- it)\\ ^ тт. Складывая эти неравенства,",
+      "page": 11,
+      "start_position": 21563,
+      "end_position": 21644,
+      "length": 81,
+      "matched_keywords": [
+        "неравенств",
+        "неравенства"
+      ]
+    },
+    {
+      "text": "часовой стрелки оценивается сверху величиной, стремящейся к 27 г(^ + (п - 1))",
+      "page": 12,
+      "start_position": 21869,
+      "end_position": 21946,
+      "length": 77,
+      "matched_keywords": [
+        "оценивается"
+      ]
+    },
+    {
+      "text": "§1. 3. Доказательство оценки (1. 1) в одном частном случае",
+      "page": 12,
+      "start_position": 22046,
+      "end_position": 22104,
+      "length": 58,
+      "matched_keywords": [
+        "оценки"
+      ]
+    },
+    {
+      "text": "Сейчас мы докажем неравенство (1. 1) для случая 1-периодического экспонен­",
+      "page": 12,
+      "start_position": 22106,
+      "end_position": 22180,
+      "length": 74,
+      "matched_keywords": [
+        "неравенств",
+        "неравенство"
+      ]
+    },
+    {
+      "text": "4) отношение <р* = l ^ 1 ! допускает оценку слабого типа ix{z е Т : <р*(2 г) >",
+      "page": 12,
+      "start_position": 23066,
+      "end_position": 23144,
+      "length": 78,
+      "matched_keywords": [
+        "оценку"
+      ]
+    },
+    {
+      "text": "где ipk(z) d= log+ <pk(z). Оценка слабого типа. Для у?* дает неравенство ц{фк >",
+      "page": 13,
+      "start_position": 24280,
+      "end_position": 24359,
+      "length": 79,
+      "matched_keywords": [
+        "неравенств",
+        "оценка",
+        "неравенство"
+      ]
+    },
+    {
+      "text": "полняется неравенство | Rezj\\ ^ 7 r JT^\"Y) (В противном случае нули *i,... , Z J ле­",
+      "page": 14,
+      "start_position": 26080,
+      "end_position": 26164,
+      "length": 84,
+      "matched_keywords": [
+        "неравенств",
+        "неравенство"
+      ]
+    },
+    {
+      "text": "Для z e [-§, §] отсюда вытекает оценка",
+      "page": 15,
+      "start_position": 26679,
+      "end_position": 26717,
+      "length": 38,
+      "matched_keywords": [
+        "оценка"
+      ]
+    },
+    {
+      "text": "числом нулей) — противоречие. Кроме того, лемма Лангера дает неравенство",
+      "page": 16,
+      "start_position": 29261,
+      "end_position": 29333,
+      "length": 72,
+      "matched_keywords": [
+        "неравенств",
+        "неравенство"
+      ]
+    },
+    {
+      "text": "нируя все полученные оценки, находим (ft = /х(22)/8):",
+      "page": 17,
+      "start_position": 29944,
+      "end_position": 29997,
+      "length": 53,
+      "matched_keywords": [
+        "оценки"
+      ]
+    },
+    {
+      "text": "понадобится оценка слабого типа для логарифмической производной экспонен­",
+      "page": 17,
+      "start_position": 30242,
+      "end_position": 30315,
+      "length": 73,
+      "matched_keywords": [
+        "оценка"
+      ]
+    },
+    {
+      "text": "4) отношение y>* = I —^ I допускает оценку слабого типа",
+      "page": 17,
+      "start_position": 30781,
+      "end_position": 30836,
+      "length": 55,
+      "matched_keywords": [
+        "оценку"
+      ]
+    },
+    {
+      "text": "больше воспользоваться леммой 1. 6 для оценки (ра.",
+      "page": 18,
+      "start_position": 31519,
+      "end_position": 31569,
+      "length": 50,
+      "matched_keywords": [
+        "оценки"
+      ]
+    },
+    {
+      "text": "откуда легко следует неравенство теоремы 1. 5, если учесть, что Пбе < 316.",
+      "page": 18,
+      "start_position": 31726,
+      "end_position": 31800,
+      "length": 74,
+      "matched_keywords": [
+        "неравенств",
+        "неравенство"
+      ]
+    },
+    {
+      "text": "портится оценка R(z)\\ однако для разнообразия мы пойдем другим путем и ис­",
+      "page": 19,
+      "start_position": 32821,
+      "end_position": 32895,
+      "length": 74,
+      "matched_keywords": [
+        "оценка"
+      ]
+    },
+    {
+      "text": "рассуждения первой половины §1 позволяют написать оценку",
+      "page": 19,
+      "start_position": 33128,
+      "end_position": 33184,
+      "length": 56,
+      "matched_keywords": [
+        "оценку"
+      ]
+    },
+    {
+      "text": "се(>-|а|)*д(_ « *)#(— At), эти неравенства могут быть непротиворечивы лишь при",
+      "page": 19,
+      "start_position": 33946,
+      "end_position": 34024,
+      "length": 78,
+      "matched_keywords": [
+        "неравенств",
+        "неравенства"
+      ]
+    },
+    {
+      "text": "Для полинома Q(z) на отрезке [-|, |] имеем оценку слабого типа //{ £ е [-§, |] :",
+      "page": 19,
+      "start_position": 34081,
+      "end_position": 34161,
+      "length": 80,
+      "matched_keywords": [
+        "оценку"
+      ]
+    },
+    {
+      "text": "в силу леммы 1. 2. Объединяя эти оценки с помощью",
+      "page": 19,
+      "start_position": 34185,
+      "end_position": 34234,
+      "length": 49,
+      "matched_keywords": [
+        "оценки"
+      ]
+    },
+    {
+      "text": "неравенства \\j-t logg(t)\\ ^ \\а\\ + |^logi?(*)| + |^log<2(t)|, получаем",
+      "page": 19,
+      "start_position": 34236,
+      "end_position": 34305,
+      "length": 69,
+      "matched_keywords": [
+        "неравенств",
+        "неравенства"
+      ]
+    },
+    {
+      "text": "при у ^ 29 А. Но при у < 29 А соответствующая оценка тривиальна, ибо правая",
+      "page": 20,
+      "start_position": 34426,
+      "end_position": 34501,
+      "length": 75,
+      "matched_keywords": [
+        "оценка"
+      ]
+    },
+    {
+      "text": "неравенство «типа принципа неопределенности»",
+      "page": 20,
+      "start_position": 35014,
+      "end_position": 35058,
+      "length": 44,
+      "matched_keywords": [
+        "неравенств",
+        "неравенство"
+      ]
+    },
+    {
+      "text": "Непосредственным следствием неравенства (2. 1) является теорема единственно­",
+      "page": 20,
+      "start_position": 35253,
+      "end_position": 35329,
+      "length": 76,
+      "matched_keywords": [
+        "неравенств",
+        "неравенства"
+      ]
+    },
+    {
+      "text": "Аналогично /х 2*>о v Kfc£v) dv < 7 J l ^ <£>(*) eft. Складывая эти оценки, получаем",
+      "page": 21,
+      "start_position": 36337,
+      "end_position": 36420,
+      "length": 83,
+      "matched_keywords": [
+        "оценки"
+      ]
+    },
+    {
+      "text": "первое неравенство леммы. Далее,",
+      "page": 21,
+      "start_position": 36422,
+      "end_position": 36454,
+      "length": 32,
+      "matched_keywords": [
+        "неравенств",
+        "неравенство"
+      ]
+    },
+    {
+      "text": "функции / е L 2(R) выполнено неравенство",
+      "page": 23,
+      "start_position": 38864,
+      "end_position": 38904,
+      "length": 40,
+      "matched_keywords": [
+        "неравенств",
+        "неравенство"
+      ]
+    },
+    {
+      "text": "и, стало быть, С ^ 2 sj*2 <» . Для проверки обратного неравенства достаточно предъ­",
+      "page": 24,
+      "start_position": 40327,
+      "end_position": 40410,
+      "length": 83,
+      "matched_keywords": [
+        "неравенств",
+        "неравенства"
+      ]
+    },
+    {
+      "text": "Е - у, получим такую же оценку на |/(у)| и, в силу произвольности у на sup E |/|.",
+      "page": 26,
+      "start_position": 43124,
+      "end_position": 43205,
+      "length": 81,
+      "matched_keywords": [
+        "оценку"
+      ]
+    },
+    {
+      "text": "ти можно получить оценку констант С и б\" вида ^fie",
+      "page": 26,
+      "start_position": 43481,
+      "end_position": 43531,
+      "length": 50,
+      "matched_keywords": [
+        "оценку"
+      ]
+    },
+    {
+      "text": "го неравенства С ^ Age^+^^E)^)",
+      "page": 26,
+      "start_position": 43729,
+      "end_position": 43759,
+      "length": 30,
+      "matched_keywords": [
+        "неравенств",
+        "неравенства"
+      ]
+    },
+    {
+      "text": "для всех / G £2(R). Эффективная оценка постоянной С влечет за собой огра­",
+      "page": 26,
+      "start_position": 44269,
+      "end_position": 44342,
+      "length": 73,
+      "matched_keywords": [
+        "оценка"
+      ]
+    },
+    {
+      "text": "функцию д = (//) * (//), где f(x) = f(—x). Несложные оценки показывают, что",
+      "page": 27,
+      "start_position": 46695,
+      "end_position": 46770,
+      "length": 75,
+      "matched_keywords": [
+        "оценки"
+      ]
+    },
+    {
+      "text": "номерного no argz E [—7 г, 7 г] оценивается сверху интегралом",
+      "page": 28,
+      "start_position": 49015,
+      "end_position": 49076,
+      "length": 61,
+      "matched_keywords": [
+        "оценивается"
+      ]
+    },
+    {
+      "text": "одновременные оценки Ф(х) = 0(е~6 х Р\\ Ф(ж) = 0(е-6 х\") (S > 0, £ + ± < 1).",
+      "page": 29,
+      "start_position": 51622,
+      "end_position": 51697,
+      "length": 75,
+      "matched_keywords": [
+        "оценки"
+      ]
+    },
+    {
+      "text": "Тогда база индукции сводится к неравенству |/(0)| ^ G(f) ^ G, которое неме­",
+      "page": 30,
+      "start_position": 52457,
+      "end_position": 52532,
+      "length": 75,
+      "matched_keywords": [
+        "неравенств"
+      ]
+    },
+    {
+      "text": "дленно следует из субгармоничности log|/|. Предположим, что оценка для коэф­",
+      "page": 30,
+      "start_position": 52533,
+      "end_position": 52609,
+      "length": 76,
+      "matched_keywords": [
+        "оценка"
+      ]
+    },
+    {
+      "text": "фициента cn_i доказана. Как получить отсюда оценку для с„? Естественнее всего",
+      "page": 30,
+      "start_position": 52610,
+      "end_position": 52687,
+      "length": 77,
+      "matched_keywords": [
+        "оценку"
+      ]
+    },
+    {
+      "text": "Кроме того, имеем тривиальную оценку С(Ф Г/) ^ ||Фг/||я 2 ^ 11/11 я 2 ^ 1 и тем",
+      "page": 31,
+      "start_position": 55296,
+      "end_position": 55375,
+      "length": 79,
+      "matched_keywords": [
+        "оценку"
+      ]
+    },
+    {
+      "text": "Ясно, что эта оценка сохраняется и при всех д е [\\, Н-оо]. Она имеет перед резуль­",
+      "page": 31,
+      "start_position": 55805,
+      "end_position": 55887,
+      "length": 82,
+      "matched_keywords": [
+        "оценка"
+      ]
+    },
+    {
+      "text": "Применяя к функции \\р оценку из последнего замечания к лемме 2. 4 с р 2 =",
+      "page": 32,
+      "start_position": 57782,
+      "end_position": 57855,
+      "length": 73,
+      "matched_keywords": [
+        "оценку"
+      ]
+    },
+    {
+      "text": "(мы заменили Ь на Ь + Л и воспользовались очевидным неравенством (Ф(А))&+А =",
+      "page": 33,
+      "start_position": 58725,
+      "end_position": 58801,
+      "length": 76,
+      "matched_keywords": [
+        "неравенств",
+        "неравенство"
+      ]
+    },
+    {
+      "text": "В силу хорошо известной оценки слабого типа для некасательной максимальной",
+      "page": 33,
+      "start_position": 59932,
+      "end_position": 60006,
+      "length": 74,
+      "matched_keywords": [
+        "оценки"
+      ]
+    },
+    {
+      "text": "силу субгармоничности log \\<р\\ в С+ для точек С € д&п имеем оценку: (Р — ядро",
+      "page": 34,
+      "start_position": 61165,
+      "end_position": 61242,
+      "length": 77,
+      "matched_keywords": [
+        "оценку"
+      ]
+    },
+    {
+      "text": "т. е. ||Ф Р — Фр/2||я 2(п) ^ С'ръ. Из этой оценки немедленно вытекает, что последо­",
+      "page": 35,
+      "start_position": 61986,
+      "end_position": 62069,
+      "length": 83,
+      "matched_keywords": [
+        "оценки"
+      ]
+    },
+    {
+      "text": "Е Р{^с{т, х) удовлетворяет неравенству",
+      "page": 36,
+      "start_position": 65804,
+      "end_position": 65842,
+      "length": 38,
+      "matched_keywords": [
+        "неравенств"
+      ]
+    },
+    {
+      "text": "«функция погрешности» Ф е L 2(R), норма которой оценивается сверху числом",
+      "page": 36,
+      "start_position": 66514,
+      "end_position": 66587,
+      "length": 73,
+      "matched_keywords": [
+        "оценивается"
+      ]
+    },
+    {
+      "text": "влетворяющий на отрезке J неравенству \\f(x) -p^J\\x)\\",
+      "page": 37,
+      "start_position": 66753,
+      "end_position": 66805,
+      "length": 52,
+      "matched_keywords": [
+        "неравенств"
+      ]
+    },
+    {
+      "text": "в силу неравенства |е",
+      "page": 37,
+      "start_position": 67236,
+      "end_position": 67257,
+      "length": 21,
+      "matched_keywords": [
+        "неравенств",
+        "неравенства"
+      ]
+    },
+    {
+      "text": "Возводя полученное неравенство в квадрат и интегрируя по R, находим",
+      "page": 37,
+      "start_position": 68054,
+      "end_position": 68121,
+      "length": 67,
+      "matched_keywords": [
+        "неравенств",
+        "неравенство"
+      ]
+    },
+    {
+      "text": "стало быть, измеримыми. Усредним неравенство J R\\f W\\2\\qt(e 2 nit X)\\2 d\\",
+      "page": 38,
+      "start_position": 70268,
+      "end_position": 70341,
+      "length": 73,
+      "matched_keywords": [
+        "неравенств",
+        "неравенство"
+      ]
+    },
+    {
+      "text": "граница задается уравнением |^(^)|2 = (^)",
+      "page": 39,
+      "start_position": 70946,
+      "end_position": 70987,
+      "length": 41,
+      "matched_keywords": [
+        "граница"
+      ]
+    },
+    {
+      "text": "В силу неравенства |sin 7 ra;| ^ 2\\х\\ (х е [-|, |]) множитель |sin 7 rt 0(A - Aj)| оцени­",
+      "page": 41,
+      "start_position": 74907,
+      "end_position": 74996,
+      "length": 89,
+      "matched_keywords": [
+        "неравенств",
+        "неравенства"
+      ]
+    },
+    {
+      "text": "Комбинируя это неравенство с полученной ранее оценкой /Кчмп 1 к |/|2 ^ 4(п +",
+      "page": 41,
+      "start_position": 75602,
+      "end_position": 75678,
+      "length": 76,
+      "matched_keywords": [
+        "неравенств",
+        "неравенство"
+      ]
+    },
+    {
+      "text": "т Пкдк. Тогда правая часть оценивается величиной М Пк щ Jj \\<jk(t)\\ dt ^ Мп Шдк(х),",
+      "page": 42,
+      "start_position": 78530,
+      "end_position": 78613,
+      "length": 83,
+      "matched_keywords": [
+        "оценивается"
+      ]
+    },
+    {
+      "text": "Харди-Литтлвуда. В силу хорошо известной оценки нормы оператора максималь­",
+      "page": 43,
+      "start_position": 78719,
+      "end_position": 78793,
+      "length": 74,
+      "matched_keywords": [
+        "оценки"
+      ]
+    },
+    {
+      "text": "Норма функции погрешности Ф оценивается величиной",
+      "page": 43,
+      "start_position": 79086,
+      "end_position": 79135,
+      "length": 49,
+      "matched_keywords": [
+        "оценивается"
+      ]
+    },
+    {
+      "text": "§3. 3. Лемма о распространении оценки",
+      "page": 43,
+      "start_position": 79299,
+      "end_position": 79336,
+      "length": 37,
+      "matched_keywords": [
+        "оценки"
+      ]
+    },
+    {
+      "text": "Доказательство. В силу неравенства Чебышева \\р(х)\\2 ^ jre) Je Ь(*)| 2^ н а неко­",
+      "page": 43,
+      "start_position": 79730,
+      "end_position": 79810,
+      "length": 80,
+      "matched_keywords": [
+        "неравенств",
+        "неравенства"
+      ]
+    },
+    {
+      "text": "Интегрируя это неравенство по J и заменяя /i(e') на \\ц(е\\",
+      "page": 43,
+      "start_position": 79929,
+      "end_position": 79986,
+      "length": 57,
+      "matched_keywords": [
+        "неравенств",
+        "неравенство"
+      ]
+    },
+    {
+      "text": "В силу неравенства Минковского",
+      "page": 44,
+      "start_position": 81096,
+      "end_position": 81126,
+      "length": 30,
+      "matched_keywords": [
+        "неравенств",
+        "неравенства"
+      ]
+    },
+    {
+      "text": "Возводя полученное неравенство в квадрат и суммируя по всем белым отрезкам",
+      "page": 44,
+      "start_position": 81327,
+      "end_position": 81401,
+      "length": 74,
+      "matched_keywords": [
+        "неравенств",
+        "неравенство"
+      ]
+    },
+    {
+      "text": "с некоторыми абсолютными постоянными А' и А\" в силу доказанной в §2 оценки",
+      "page": 45,
+      "start_position": 81492,
+      "end_position": 81566,
+      "length": 74,
+      "matched_keywords": [
+        "оценки"
+      ]
+    },
+    {
+      "text": "Е, лежащие соответственно в белых и черных отрезках. Последнее неравенство",
+      "page": 45,
+      "start_position": 81649,
+      "end_position": 81723,
+      "length": 74,
+      "matched_keywords": [
+        "неравенств",
+        "неравенство"
+      ]
+    },
+    {
+      "text": "можно трактовать, как продолжение оценки / с R \\ Е на Ew. Возможность такого",
+      "page": 45,
+      "start_position": 81725,
+      "end_position": 81801,
+      "length": 76,
+      "matched_keywords": [
+        "оценки"
+      ]
+    },
+    {
+      "text": "Тогда для любой функции / е L 2(T) со спектром spec/ с Л выполняется оценка",
+      "page": 46,
+      "start_position": 83542,
+      "end_position": 83617,
+      "length": 75,
+      "matched_keywords": [
+        "оценка"
+      ]
+    },
+    {
+      "text": "тогда по неравенству Гёльдера",
+      "page": 46,
+      "start_position": 84226,
+      "end_position": 84255,
+      "length": 29,
+      "matched_keywords": [
+        "неравенств"
+      ]
+    },
+    {
+      "text": "для любого е > О в неравенстве (3. 2) можно положить",
+      "page": 46,
+      "start_position": 84603,
+      "end_position": 84655,
+      "length": 52,
+      "matched_keywords": [
+        "неравенств"
+      ]
+    },
+    {
+      "text": "оценка постоянной С(Е, А), зависящая только от меры множества Е, в случае,",
+      "page": 46,
+      "start_position": 85156,
+      "end_position": 85230,
+      "length": 74,
+      "matched_keywords": [
+        "оценка"
+      ]
+    },
+    {
+      "text": "er(R) (оценка нормы максимальной функ­",
+      "page": 47,
+      "start_position": 85973,
+      "end_position": 86011,
+      "length": 38,
+      "matched_keywords": [
+        "оценка"
+      ]
+    },
+    {
+      "text": "доказательстве числа М = Sn 1****^ выполняется неравенство Мт ^ 1, так как в",
+      "page": 47,
+      "start_position": 87209,
+      "end_position": 87285,
+      "length": 76,
+      "matched_keywords": [
+        "неравенств",
+        "неравенство"
+      ]
+    },
+    {
+      "text": "тогда неравенство (**) примет вид",
+      "page": 48,
+      "start_position": 87751,
+      "end_position": 87784,
+      "length": 33,
+      "matched_keywords": [
+        "неравенств",
+        "неравенство"
+      ]
+    },
+    {
+      "text": "( п о с л е д н е е неравенство",
+      "page": 48,
+      "start_position": 87877,
+      "end_position": 87908,
+      "length": 31,
+      "matched_keywords": [
+        "неравенств",
+        "неравенство"
+      ]
+    },
+    {
+      "text": "= Х Е(Г))- Норма Q E оценивается сверху величиной",
+      "page": 49,
+      "start_position": 89681,
+      "end_position": 89730,
+      "length": 49,
+      "matched_keywords": [
+        "оценивается"
+      ]
+    },
+    {
+      "text": "Решая неравенство y/Rt(l -1) ^ | убеждаемся, что это так при р(Е) ^ щл ЯТ-",
+      "page": 49,
+      "start_position": 89904,
+      "end_position": 89978,
+      "length": 74,
+      "matched_keywords": [
+        "неравенств",
+        "неравенство"
+      ]
+    },
+    {
+      "text": "Покажем теперь, что оценка (*) выполняется и для множеств Е меры р(Е) <",
+      "page": 49,
+      "start_position": 89979,
+      "end_position": 90050,
+      "length": 71,
+      "matched_keywords": [
+        "оценка"
+      ]
+    },
+    {
+      "text": "Эффективность такой оценки решающим образом зависит от числа v d=",
+      "page": 50,
+      "start_position": 92398,
+      "end_position": 92463,
+      "length": 65,
+      "matched_keywords": [
+        "оценки"
+      ]
+    },
+    {
+      "text": "так что чем больше и, тем лучшую оценку и на более широком множестве мы",
+      "page": 51,
+      "start_position": 92626,
+      "end_position": 92697,
+      "length": 71,
+      "matched_keywords": [
+        "оценку"
+      ]
+    },
+    {
+      "text": "самом деле достаточно, вытекает из следующей простой цепочки неравенств:",
+      "page": 51,
+      "start_position": 93042,
+      "end_position": 93114,
+      "length": 72,
+      "matched_keywords": [
+        "неравенств"
+      ]
+    },
+    {
+      "text": "Для множества Е\\ = Е U Е' выполняются следующие две оценки:",
+      "page": 51,
+      "start_position": 94218,
+      "end_position": 94277,
+      "length": 59,
+      "matched_keywords": [
+        "оценки"
+      ]
+    },
+    {
+      "text": "значения такой постоянной С, что неравенство Н/Н^т) ^ С J E |/|2 d\\x выполняется",
+      "page": 51,
+      "start_position": 95013,
+      "end_position": 95093,
+      "length": 80,
+      "matched_keywords": [
+        "неравенств",
+        "неравенство"
+      ]
+    },
+    {
+      "text": "удовлетворяет разностному неравенству",
+      "page": 52,
+      "start_position": 95698,
+      "end_position": 95735,
+      "length": 37,
+      "matched_keywords": [
+        "неравенств"
+      ]
+    },
+    {
+      "text": "сейчас покажем, как из (3. 4) вывести справедливость неравенства",
+      "page": 54,
+      "start_position": 98119,
+      "end_position": 98183,
+      "length": 64,
+      "matched_keywords": [
+        "неравенств",
+        "неравенства"
+      ]
+    },
+    {
+      "text": "оценку n(Et) ^ п), то / Е Е Р£с(т, к) с х 2 = 2 ел'\"^>(п +1)£2, где х d=! f f R^E |/|2 ф,",
+      "page": 55,
+      "start_position": 100274,
+      "end_position": 100363,
+      "length": 89,
+      "matched_keywords": [
+        "оценку"
+      ]
+    },
+    {
+      "text": "возможную постоянную в неравенстве",
+      "page": 55,
+      "start_position": 100814,
+      "end_position": 100848,
+      "length": 34,
+      "matched_keywords": [
+        "неравенств"
+      ]
+    },
+    {
+      "text": "§4. 1. Оценки экспоненциальных полиномов с",
+      "page": 56,
+      "start_position": 102986,
+      "end_position": 103028,
+      "length": 42,
+      "matched_keywords": [
+        "оценки"
+      ]
+    },
+    {
+      "text": "( по существу мы уже отмечали это, когда использовали лемму Турана для оценки",
+      "page": 56,
+      "start_position": 103374,
+      "end_position": 103451,
+      "length": 77,
+      "matched_keywords": [
+        "оценки"
+      ]
+    },
+    {
+      "text": "отрезков и неравенства Иенсена (или, если угодно, леммы Шварца ) отчасти ком­",
+      "page": 57,
+      "start_position": 104076,
+      "end_position": 104153,
+      "length": 77,
+      "matched_keywords": [
+        "неравенств",
+        "неравенства"
+      ]
+    },
+    {
+      "text": "ставляя эти неравенства, имеем N ^ |log( д 1^а) } {(n-l)log 4 e(fr",
+      "page": 57,
+      "start_position": 105002,
+      "end_position": 105068,
+      "length": 66,
+      "matched_keywords": [
+        "неравенств",
+        "неравенства"
+      ]
+    },
+    {
+      "text": "Из леммы 4. 2 нетрудно вывести оценку типа Бернштейна, аналогичную лемме",
+      "page": 57,
+      "start_position": 105170,
+      "end_position": 105242,
+      "length": 72,
+      "matched_keywords": [
+        "оценку"
+      ]
+    },
+    {
+      "text": "ляет тогда написать неравенство \\Z J\\ ^ •;~4^\"~1) ^ £^г > 1 при j > П А, которое",
+      "page": 57,
+      "start_position": 105641,
+      "end_position": 105721,
+      "length": 80,
+      "matched_keywords": [
+        "неравенств",
+        "неравенство"
+      ]
+    },
+    {
+      "text": "вполне заменяет неравенство \\Z J\\ ^ тг^Г> использовавшееся при доказательстве",
+      "page": 57,
+      "start_position": 105723,
+      "end_position": 105800,
+      "length": 77,
+      "matched_keywords": [
+        "неравенств",
+        "неравенство"
+      ]
+    },
+    {
+      "text": "4) Отношение ipk d= r ^ i Доп Ускает оценку слабого типа ц 1 х е -f>2 :",
+      "page": 58,
+      "start_position": 106255,
+      "end_position": 106326,
+      "length": 71,
+      "matched_keywords": [
+        "оценку"
+      ]
+    },
+    {
+      "text": "большей 44/i, по-прежнему имеется неравенство картановского типа \\Z-Z J\\ ^ т^гп",
+      "page": 58,
+      "start_position": 107342,
+      "end_position": 107421,
+      "length": 79,
+      "matched_keywords": [
+        "неравенств",
+        "неравенство"
+      ]
+    },
+    {
+      "text": "4. 2 доставляет нетривиальную априорную оценку разности \\z — Z J\\ лишь при j >",
+      "page": 58,
+      "start_position": 107506,
+      "end_position": 107584,
+      "length": 78,
+      "matched_keywords": [
+        "оценку"
+      ]
+    },
+    {
+      "text": "возможности в наших условиях оценки \\Z — Z J\\ ^ 7 J 7 n-7)",
+      "page": 59,
+      "start_position": 107669,
+      "end_position": 107727,
+      "length": 58,
+      "matched_keywords": [
+        "оценки"
+      ]
+    },
+    {
+      "text": "с обеих сторон от х, то можно написать оценку, не включающую показателей А*.",
+      "page": 59,
+      "start_position": 109298,
+      "end_position": 109374,
+      "length": 76,
+      "matched_keywords": [
+        "оценку"
+      ]
+    },
+    {
+      "text": "Соответствующее неравенство",
+      "page": 61,
+      "start_position": 110967,
+      "end_position": 110994,
+      "length": 27,
+      "matched_keywords": [
+        "неравенств",
+        "неравенство"
+      ]
+    },
+    {
+      "text": "что по неравенству Гельдера не превосходит",
+      "page": 62,
+      "start_position": 112173,
+      "end_position": 112215,
+      "length": 42,
+      "matched_keywords": [
+        "неравенств"
+      ]
+    },
+    {
+      "text": "ограничимся вопросом о замене в неравенстве (*) £2-нормы на £р-норму. Если",
+      "page": 62,
+      "start_position": 112752,
+      "end_position": 112826,
+      "length": 74,
+      "matched_keywords": [
+        "неравенств"
+      ]
+    },
+    {
+      "text": "О < р < 2, то это оказывается возможным, и соответствующая оценка имеет вид",
+      "page": 62,
+      "start_position": 112828,
+      "end_position": 112903,
+      "length": 75,
+      "matched_keywords": [
+        "оценка"
+      ]
+    },
+    {
+      "text": "где А — та же постоянная, что и в (*). Заметим, что это неравенство довольно",
+      "page": 62,
+      "start_position": 112955,
+      "end_position": 113031,
+      "length": 76,
+      "matched_keywords": [
+        "неравенств",
+        "неравенство"
+      ]
+    },
+    {
+      "text": "Доказательство. Пусть / € 5, Ф — убывающая перестановка |/|. Неравенство (*)",
+      "page": 62,
+      "start_position": 113277,
+      "end_position": 113353,
+      "length": 76,
+      "matched_keywords": [
+        "неравенств",
+        "неравенство"
+      ]
+    },
+    {
+      "text": "при всех t > 0. Из первой из них по неравенству Гельдера вытекает, что",
+      "page": 62,
+      "start_position": 113474,
+      "end_position": 113544,
+      "length": 70,
+      "matched_keywords": [
+        "неравенств"
+      ]
+    },
+    {
+      "text": "Для того чтобы извлечь информацию из второй оценки, воспользуемся следующей",
+      "page": 62,
+      "start_position": 113590,
+      "end_position": 113665,
+      "length": 75,
+      "matched_keywords": [
+        "оценки"
+      ]
+    },
+    {
+      "text": "а это равносильно неравенству",
+      "page": 63,
+      "start_position": 114276,
+      "end_position": 114305,
+      "length": 29,
+      "matched_keywords": [
+        "неравенств"
+      ]
+    },
+    {
+      "text": "Таким образом, при 0 < р < 2 оценка по существу та же самая, что и в",
+      "page": 63,
+      "start_position": 114412,
+      "end_position": 114480,
+      "length": 68,
+      "matched_keywords": [
+        "оценка"
+      ]
+    },
+    {
+      "text": "мы построим сейчас множество Е конечной меры с тем свойством, что оценка",
+      "page": 63,
+      "start_position": 114554,
+      "end_position": 114626,
+      "length": 72,
+      "matched_keywords": [
+        "оценка"
+      ]
+    },
+    {
+      "text": "Пусть Fk 6 5, Ejk С Jk удовлетворяют неравенствам //(£*) ^ /w*, spec F* С £*,",
+      "page": 64,
+      "start_position": 117104,
+      "end_position": 117181,
+      "length": 77,
+      "matched_keywords": [
+        "неравенств",
+        "неравенства"
+      ]
+    }
+  ]
+}

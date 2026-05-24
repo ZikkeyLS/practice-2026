@@ -1,0 +1,708 @@
+{
+  "source_file": "sm1338.pdf",
+  "metadata": {
+    "file": "sm1338.pdf",
+    "pages": 15,
+    "title": "Мультипликативные неравенства для производных и априорные оценкоценки гладкости решений нелинейных дифференциальных уравнений",
+    "author": "В. Е. Майоров"
+  },
+  "extraction_info": {
+    "keywords_used": [
+      "неравенств",
+      "неравенства",
+      "оценка",
+      "оценки",
+      "неравенство",
+      "оценку",
+      "оценивается",
+      "≤",
+      "≥",
+      "граница"
+    ],
+    "total_sentences_found": 65,
+    "total_text_length": 27848
+  },
+  "sentences": [
+    {
+      "text": "Мультипликативные неравенства для производных",
+      "page": 1,
+      "start_position": 86,
+      "end_position": 131,
+      "length": 45,
+      "matched_keywords": [
+        "неравенств",
+        "неравенства"
+      ]
+    },
+    {
+      "text": "и априорные оценки гладкости решений",
+      "page": 1,
+      "start_position": 132,
+      "end_position": 168,
+      "length": 36,
+      "matched_keywords": [
+        "оценки"
+      ]
+    },
+    {
+      "text": "В работе доказываются неравенства вида: если х 6 С",
+      "page": 1,
+      "start_position": 207,
+      "end_position": 257,
+      "length": 50,
+      "matched_keywords": [
+        "неравенств",
+        "неравенства"
+      ]
+    },
+    {
+      "text": "вании неравенств строятся теоремы вложения классов решений нелинейных сингуляр-",
+      "page": 1,
+      "start_position": 424,
+      "end_position": 503,
+      "length": 79,
+      "matched_keywords": [
+        "неравенств"
+      ]
+    },
+    {
+      "text": "неравенство, позволяющее оценивать гладкость данной функции через",
+      "page": 1,
+      "start_position": 709,
+      "end_position": 774,
+      "length": 65,
+      "matched_keywords": [
+        "неравенств",
+        "неравенство"
+      ]
+    },
+    {
+      "text": "пенях. В качестве приложения этого неравенства мы получаем априорные",
+      "page": 1,
+      "start_position": 844,
+      "end_position": 912,
+      "length": 68,
+      "matched_keywords": [
+        "неравенств",
+        "неравенства"
+      ]
+    },
+    {
+      "text": "оценки гладкости для решений нелинейных дифференциальных сингуляр-",
+      "page": 1,
+      "start_position": 913,
+      "end_position": 979,
+      "length": 66,
+      "matched_keywords": [
+        "оценки"
+      ]
+    },
+    {
+      "text": "1. 1) При выполнении неравенства (1) для любой функции",
+      "page": 1,
+      "start_position": 1832,
+      "end_position": 1886,
+      "length": 54,
+      "matched_keywords": [
+        "неравенств",
+        "неравенства"
+      ]
+    },
+    {
+      "text": "имеет место неравенство",
+      "page": 2,
+      "start_position": 1970,
+      "end_position": 1993,
+      "length": 23,
+      "matched_keywords": [
+        "неравенств",
+        "неравенство"
+      ]
+    },
+    {
+      "text": "2) Неравенство (2) является точным в том смысле, что для данного",
+      "page": 2,
+      "start_position": 2115,
+      "end_position": 2179,
+      "length": 64,
+      "matched_keywords": [
+        "неравенств",
+        "неравенство"
+      ]
+    },
+    {
+      "text": "2 Ц Ь) = 0, имеет место априорная оценка",
+      "page": 2,
+      "start_position": 3214,
+      "end_position": 3254,
+      "length": 40,
+      "matched_keywords": [
+        "оценка"
+      ]
+    },
+    {
+      "text": "Оценка (5) допускает обобщение на смешанный случай, которое выте-",
+      "page": 2,
+      "start_position": 3506,
+      "end_position": 3571,
+      "length": 65,
+      "matched_keywords": [
+        "оценка"
+      ]
+    },
+    {
+      "text": "Априорные оценки типа (5) играют важную роль в задачах качествен-",
+      "page": 3,
+      "start_position": 3942,
+      "end_position": 4007,
+      "length": 65,
+      "matched_keywords": [
+        "оценки"
+      ]
+    },
+    {
+      "text": "отношению / (t, и 0, щ) = О (ul), и получены соответствующие оценки для",
+      "page": 3,
+      "start_position": 4283,
+      "end_position": 4354,
+      "length": 71,
+      "matched_keywords": [
+        "оценки"
+      ]
+    },
+    {
+      "text": "х' и х\". Впоследствии оценки для регулярных уравнений высших порядков",
+      "page": 3,
+      "start_position": 4355,
+      "end_position": 4424,
+      "length": 69,
+      "matched_keywords": [
+        "оценки"
+      ]
+    },
+    {
+      "text": "типликативное неравенство для производных Колмогорова — Горни (см.",
+      "page": 3,
+      "start_position": 4565,
+      "end_position": 4631,
+      "length": 66,
+      "matched_keywords": [
+        "неравенств",
+        "неравенство"
+      ]
+    },
+    {
+      "text": "жатся интегральные априорные оценки. Отметим также работы [8]-—[10]t",
+      "page": 3,
+      "start_position": 4771,
+      "end_position": 4839,
+      "length": 68,
+      "matched_keywords": [
+        "оценки"
+      ]
+    },
+    {
+      "text": "в которых получены оценки гладкости решений для уравнений в частных",
+      "page": 3,
+      "start_position": 4840,
+      "end_position": 4907,
+      "length": 67,
+      "matched_keywords": [
+        "оценки"
+      ]
+    },
+    {
+      "text": "Рассмотрим еще одно приложение теоремы 1. Неравенства типа (2),",
+      "page": 3,
+      "start_position": 5079,
+      "end_position": 5142,
+      "length": 63,
+      "matched_keywords": [
+        "неравенств",
+        "неравенства"
+      ]
+    },
+    {
+      "text": "п, удовлетворяющих неравенству",
+      "page": 3,
+      "start_position": 5392,
+      "end_position": 5422,
+      "length": 30,
+      "matched_keywords": [
+        "неравенств"
+      ]
+    },
+    {
+      "text": "щие неравенству (4) с М = с",
+      "page": 3,
+      "start_position": 5942,
+      "end_position": 5969,
+      "length": 27,
+      "matched_keywords": [
+        "неравенств"
+      ]
+    },
+    {
+      "text": "ты сх и с 2, что для всех z имеют место неравенства с 2 ^ и (z)/v (z) ^ сг",
+      "page": 4,
+      "start_position": 7501,
+      "end_position": 7575,
+      "length": 74,
+      "matched_keywords": [
+        "неравенств",
+        "неравенства"
+      ]
+    },
+    {
+      "text": "Лебега имеет место оценка",
+      "page": 4,
+      "start_position": 8032,
+      "end_position": 8057,
+      "length": 25,
+      "matched_keywords": [
+        "оценка"
+      ]
+    },
+    {
+      "text": "всех t £ А выполняются неравенства х (t) > 0, я' (£) ^> 0, д;\" (t) ^> 0,",
+      "page": 4,
+      "start_position": 8257,
+      "end_position": 8329,
+      "length": 72,
+      "matched_keywords": [
+        "неравенств",
+        "неравенства"
+      ]
+    },
+    {
+      "text": "Подставляя эту оценку в (7), получим утверждение леммы с с 0 = 2.",
+      "page": 5,
+      "start_position": 8909,
+      "end_position": 8974,
+      "length": 65,
+      "matched_keywords": [
+        "оценку"
+      ]
+    },
+    {
+      "text": "неравенства hy' (с) <^z/' (^) ^ 2 hy' (с). Построим на А разбиение на от-",
+      "page": 5,
+      "start_position": 9123,
+      "end_position": 9196,
+      "length": 73,
+      "matched_keywords": [
+        "неравенств",
+        "неравенства"
+      ]
+    },
+    {
+      "text": "а для s — N — неравенство",
+      "page": 5,
+      "start_position": 9417,
+      "end_position": 9442,
+      "length": 25,
+      "matched_keywords": [
+        "неравенств",
+        "неравенство"
+      ]
+    },
+    {
+      "text": "ный отрезок. Для доказательства оценки (2) нам нужно установить не-",
+      "page": 6,
+      "start_position": 10267,
+      "end_position": 10334,
+      "length": 67,
+      "matched_keywords": [
+        "оценки"
+      ]
+    },
+    {
+      "text": "Для оценки последнего интеграла проведем ряд дополнительных по-",
+      "page": 6,
+      "start_position": 10506,
+      "end_position": 10569,
+      "length": 63,
+      "matched_keywords": [
+        "оценки"
+      ]
+    },
+    {
+      "text": "Для любой точки i £ Тх выполняются следующие неравенства:",
+      "page": 6,
+      "start_position": 11283,
+      "end_position": 11340,
+      "length": 57,
+      "matched_keywords": [
+        "неравенств",
+        "неравенства"
+      ]
+    },
+    {
+      "text": "0\"\"'^ (s) из разбиения Rt (s) имеет место оценка",
+      "page": 7,
+      "start_position": 13381,
+      "end_position": 13429,
+      "length": 48,
+      "matched_keywords": [
+        "оценка"
+      ]
+    },
+    {
+      "text": "Отсюда и из неравенства (16) получаем утверждение леммы.",
+      "page": 8,
+      "start_position": 13956,
+      "end_position": 14012,
+      "length": 56,
+      "matched_keywords": [
+        "неравенств",
+        "неравенства"
+      ]
+    },
+    {
+      "text": "Применяя далее неравенство (12) и определение (13), имеем",
+      "page": 8,
+      "start_position": 14804,
+      "end_position": 14861,
+      "length": 57,
+      "matched_keywords": [
+        "неравенств",
+        "неравенство"
+      ]
+    },
+    {
+      "text": "Подставим эту оценку в (18)",
+      "page": 8,
+      "start_position": 14914,
+      "end_position": 14941,
+      "length": 27,
+      "matched_keywords": [
+        "оценку"
+      ]
+    },
+    {
+      "text": "Для оценки последней суммы в (20) воспользуемся определением разбие-",
+      "page": 8,
+      "start_position": 15086,
+      "end_position": 15154,
+      "length": 68,
+      "matched_keywords": [
+        "оценки"
+      ]
+    },
+    {
+      "text": "Подставим эту оценку в (20)",
+      "page": 9,
+      "start_position": 15304,
+      "end_position": 15331,
+      "length": 27,
+      "matched_keywords": [
+        "оценку"
+      ]
+    },
+    {
+      "text": "Для оценки последнего выражения понадобится",
+      "page": 9,
+      "start_position": 15560,
+      "end_position": 15603,
+      "length": 43,
+      "matched_keywords": [
+        "оценки"
+      ]
+    },
+    {
+      "text": "При б = б/ |А | из неравенств (24) и (25) следует, что всегда S <^",
+      "page": 9,
+      "start_position": 16260,
+      "end_position": 16326,
+      "length": 66,
+      "matched_keywords": [
+        "неравенств"
+      ]
+    },
+    {
+      "text": "нив неравенство (17) и лемму 5, мы получим, что в предположении",
+      "page": 9,
+      "start_position": 16435,
+      "end_position": 16498,
+      "length": 63,
+      "matched_keywords": [
+        "неравенств",
+        "неравенство"
+      ]
+    },
+    {
+      "text": "x(n-i) (х) ^> е, 8 = б/ | А | (см. (12)), имеет место оценка",
+      "page": 9,
+      "start_position": 16499,
+      "end_position": 16559,
+      "length": 60,
+      "matched_keywords": [
+        "оценка"
+      ]
+    },
+    {
+      "text": "Таким образом, всегда выполняется неравенство",
+      "page": 9,
+      "start_position": 16614,
+      "end_position": 16659,
+      "length": 45,
+      "matched_keywords": [
+        "неравенств",
+        "неравенство"
+      ]
+    },
+    {
+      "text": "Последнее неравенство справедливо для любой точки т б /5. Поэтому",
+      "page": 9,
+      "start_position": 16725,
+      "end_position": 16790,
+      "length": 65,
+      "matched_keywords": [
+        "неравенств",
+        "неравенство"
+      ]
+    },
+    {
+      "text": "подставляя последнее неравенство в (10), получаем",
+      "page": 9,
+      "start_position": 16931,
+      "end_position": 16980,
+      "length": 49,
+      "matched_keywords": [
+        "неравенств",
+        "неравенство"
+      ]
+    },
+    {
+      "text": "Таким образом, требуемая оценка (9) получена и, следовательно, теорема 1",
+      "page": 9,
+      "start_position": 17062,
+      "end_position": 17134,
+      "length": 72,
+      "matched_keywords": [
+        "оценка"
+      ]
+    },
+    {
+      "text": "торим все рассуждения, приведенные в пункте 1 вплоть до неравенства",
+      "page": 10,
+      "start_position": 17229,
+      "end_position": 17296,
+      "length": 67,
+      "matched_keywords": [
+        "неравенств",
+        "неравенства"
+      ]
+    },
+    {
+      "text": "(20). Отметим, что для верхнего предела суммирования N в неравенстве",
+      "page": 10,
+      "start_position": 17302,
+      "end_position": 17370,
+      "length": 68,
+      "matched_keywords": [
+        "неравенств"
+      ]
+    },
+    {
+      "text": "(20) выполняется оценка N <^ log . ~ 0",
+      "page": 10,
+      "start_position": 17371,
+      "end_position": 17409,
+      "length": 38,
+      "matched_keywords": [
+        "оценка"
+      ]
+    },
+    {
+      "text": "Поэтому сумму в неравенстве (20) можно оценить так (см. (21)):",
+      "page": 10,
+      "start_position": 17496,
+      "end_position": 17558,
+      "length": 62,
+      "matched_keywords": [
+        "неравенств"
+      ]
+    },
+    {
+      "text": "Подставляя эту оценку в (20), получим",
+      "page": 10,
+      "start_position": 17564,
+      "end_position": 17601,
+      "length": 37,
+      "matched_keywords": [
+        "оценку"
+      ]
+    },
+    {
+      "text": "Повторяя далее рассуждения пункта 1 после неравенства (23) и используя",
+      "page": 10,
+      "start_position": 17620,
+      "end_position": 17690,
+      "length": 70,
+      "matched_keywords": [
+        "неравенств",
+        "неравенства"
+      ]
+    },
+    {
+      "text": "диняя оценки (10), (17) и (26), получим",
+      "page": 10,
+      "start_position": 17836,
+      "end_position": 17875,
+      "length": 39,
+      "matched_keywords": [
+        "оценки"
+      ]
+    },
+    {
+      "text": "тервала А б / имеет место неравенство",
+      "page": 10,
+      "start_position": 18060,
+      "end_position": 18097,
+      "length": 37,
+      "matched_keywords": [
+        "неравенств",
+        "неравенство"
+      ]
+    },
+    {
+      "text": "интервал. Для оценки последнего интеграла нам понадобится ряд вспомо-",
+      "page": 10,
+      "start_position": 18495,
+      "end_position": 18564,
+      "length": 69,
+      "matched_keywords": [
+        "оценки"
+      ]
+    },
+    {
+      "text": "любой точки t £ g выполняется неравенство",
+      "page": 11,
+      "start_position": 20048,
+      "end_position": 20089,
+      "length": 41,
+      "matched_keywords": [
+        "неравенств",
+        "неравенство"
+      ]
+    },
+    {
+      "text": "60, . . ., 0^! и к 0, . . ., кп^ имеем оценку",
+      "page": 12,
+      "start_position": 20569,
+      "end_position": 20614,
+      "length": 45,
+      "matched_keywords": [
+        "оценку"
+      ]
+    },
+    {
+      "text": "Подставим полученную оценку в неравенство (28) и положим е = | Д |",
+      "page": 12,
+      "start_position": 20664,
+      "end_position": 20730,
+      "length": 66,
+      "matched_keywords": [
+        "неравенств",
+        "неравенство",
+        "оценку"
+      ]
+    },
+    {
+      "text": "Аналогично оценивается интеграл и по А~. Следовательно,",
+      "page": 12,
+      "start_position": 20809,
+      "end_position": 20864,
+      "length": 55,
+      "matched_keywords": [
+        "оценивается"
+      ]
+    },
+    {
+      "text": "Неравенство (27), а следовательно, и теорема 1 для случая г > п — 1",
+      "page": 12,
+      "start_position": 20874,
+      "end_position": 20941,
+      "length": 67,
+      "matched_keywords": [
+        "неравенств",
+        "неравенство"
+      ]
+    },
+    {
+      "text": "нами только при установлении неравенств (19) и (31). Легко видеть, что",
+      "page": 12,
+      "start_position": 21502,
+      "end_position": 21572,
+      "length": 70,
+      "matched_keywords": [
+        "неравенств"
+      ]
+    },
+    {
+      "text": "эти неравенства сохранятся и при условиях, сформулированных в след-",
+      "page": 12,
+      "start_position": 21573,
+      "end_position": 21640,
+      "length": 67,
+      "matched_keywords": [
+        "неравенств",
+        "неравенства"
+      ]
+    },
+    {
+      "text": "= 0, 2, . . . , w — 3 справедливо неравенство",
+      "page": 13,
+      "start_position": 22740,
+      "end_position": 22785,
+      "length": 45,
+      "matched_keywords": [
+        "неравенств",
+        "неравенство"
+      ]
+    },
+    {
+      "text": "Из последних двух неравенств получаем, что",
+      "page": 14,
+      "start_position": 24740,
+      "end_position": 24782,
+      "length": 42,
+      "matched_keywords": [
+        "неравенств"
+      ]
+    },
+    {
+      "text": "1. Майоров В. Е. Об одном мультипликативном неравенстве для производных и его",
+      "page": 15,
+      "start_position": 25883,
+      "end_position": 25960,
+      "length": 77,
+      "matched_keywords": [
+        "неравенств"
+      ]
+    },
+    {
+      "text": "Г., Литтлвуд Д. Е., Полиа Г. Неравенства. М.: И Л, 1948.",
+      "page": 15,
+      "start_position": 26541,
+      "end_position": 26597,
+      "length": 56,
+      "matched_keywords": [
+        "неравенств",
+        "неравенства"
+      ]
+    },
+    {
+      "text": "Ю. А. Некоторые интегральные неравенства и разрешимость для вы-",
+      "page": 15,
+      "start_position": 26612,
+      "end_position": 26675,
+      "length": 63,
+      "matched_keywords": [
+        "неравенств",
+        "неравенства"
+      ]
+    }
+  ]
+}
