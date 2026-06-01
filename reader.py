@@ -105,6 +105,66 @@ def extract_metadata_with_qwen(text: str) -> Dict[str, str]:
     }
 
 
+def is_good_context(context: str) -> bool:
+    """
+    Проверка на хороший контекст для формулы/предложения
+    """
+
+    context_lower = context.lower()
+
+    bad_words = [
+        "список литературы",
+        "литература",
+        "references",
+        "bibliography",
+        "оглавление",
+        "содержание"
+    ]
+    
+    math_words = [
+        "неравен",
+        "оцен",
+        "границ",
+        "верхн",
+        "нижн",
+        "теорем",
+        "лемм",
+        "доказ",
+        "следует",
+        "получаем",
+        "констант",
+        "функц"
+    ]
+
+    for bad_word in bad_words:
+        if bad_word in context_lower:
+            return False
+
+    if len(context.strip()) < 80:
+        return False
+
+    math_signs = [
+        "≤", "≥", "<=", ">=", "<", ">", "="
+    ]
+
+    signs_count = 0
+    for sign in math_signs:
+        if sign in context:
+            signs_count += 1
+
+    words_count = 0
+    for word in math_words:
+        if word in context_lower:
+            words_count += 1
+
+    if signs_count > 0:
+        return True
+    if words_count >= 2:
+        return True
+
+    return False
+
+
 def extract_text_with_positions(pdf_path: str) -> Dict[str, Any]:
     """
     Извлечение текста из PDF
@@ -227,44 +287,68 @@ def extract_sentences_with_keywords(
     keywords: List[str]
 ) -> List[Dict]:
     """
-    Поиск строк/абзацев с ключевыми словами
+    Поиск предложений с ключевыми словами + контекст
     """
 
     results = []
     full_text = text_data["full_text"]
 
-    # Разбиваем по строкам
-    lines = full_text.split('\n')
+    # Убираем лишние переносы, чтобы предложения не рвались
+    text = re.sub(
+        r'\s+',
+        ' ',
+        full_text
+    )
+
+    # Разбиваем на предложения
+    sentences = re.split(
+        r'(?<=[.!?])\s+',
+        text
+    )
+
     current_pos = 0
 
-    for line in lines:
+    for i, sentence in enumerate(sentences):
 
-        line_clean = line.strip()
-        if len(line_clean) < 20:
-            current_pos += len(line) + 1
+        sentence_clean = sentence.strip()
+
+        if len(sentence_clean) < 20:
+            current_pos += len(sentence) + 1
             continue
 
-        line_lower = line_clean.lower()
+        sentence_lower = sentence_clean.lower()
 
         found_keywords = [
-
             kw for kw in keywords
-
-            if kw.lower() in line_lower
+            if kw.lower() in sentence_lower
         ]
 
         if found_keywords:
+            context_parts = []
+
+            if i > 0:
+                context_parts.append(sentences[i - 1].strip())
+
+            context_parts.append(sentence_clean)
+
+            if i < len(sentences) - 1:
+                context_parts.append(sentences[i + 1].strip())
+
+            context = ' '.join(context_parts).strip()
+
+            if not is_good_context(context):
+                current_pos += len(sentence) + 1
+                continue
+
             start_pos = full_text.find(
-                line_clean,
-                current_pos
+                sentence_clean
             )
 
             if start_pos == -1:
                 start_pos = current_pos
 
-            end_pos = start_pos + len(line_clean)
+            end_pos = start_pos + len(sentence_clean)
 
-            # Определяем страницу
             page = 1
 
             for page_info in text_data["pages"]:
@@ -274,15 +358,16 @@ def extract_sentences_with_keywords(
                     break
 
             results.append({
-                "text": line_clean,
+                "text": context,
+                "main_context": sentence_clean,
                 "page": page,
                 "start_position": start_pos,
                 "end_position": end_pos,
-                "length": len(line_clean),
+                "length": len(context),
                 "matched_keywords": found_keywords
             })
 
-        current_pos += len(line) + 1
+        current_pos += len(sentence) + 1
 
     return results
 
@@ -411,14 +496,20 @@ if __name__ == "__main__":
     keywords = [
         "неравенств",
         "неравенства",
+        "неравенство",
         "оценка",
         "оценки",
-        "неравенство",
         "оценку",
         "оценивается",
+        "верхняя оценка",
+        "нижняя оценка",
+        "граница",
+        "верхняя граница",
+        "нижняя граница",
         "≤",
         "≥",
-        "граница"
+        "<=",
+        ">="
     ]
 
     process_files(
