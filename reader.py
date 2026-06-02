@@ -489,7 +489,6 @@ def process_files(
 if __name__ == "__main__":
     input_dir = "input"
     output_dir = "output"
-
     keywords = [
         "неравенств",
         "неравенства",
