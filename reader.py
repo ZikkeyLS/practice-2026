@@ -157,9 +157,7 @@ def is_good_context(context: str) -> bool:
         if word in context_lower:
             words_count += 1
 
-    if signs_count > 0:
-        return True
-    if words_count >= 2:
+    if words_count >= 1 and signs_count >= 1:
         return True
 
     return False
@@ -359,7 +357,6 @@ def extract_sentences_with_keywords(
 
             results.append({
                 "text": context,
-                "main_context": sentence_clean,
                 "page": page,
                 "start_position": start_pos,
                 "end_position": end_pos,
