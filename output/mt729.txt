@@ -1,6 +1,6 @@
 Файл: mt729.pdf
 Название: STABILITY AND TWO-SIDED ESTIMATES OF SOLUTIONS OF A LINEAR NONANONAUTONOMOUS DIFFERENTIAL EQUATION WITH VARIABLE DELAY
-Автор: Nikolay V. Pertsev
+Автор: Nikolaev V. Pertsev
 Страниц: 17
 Общая длина текста: 35850
 ======================================================================

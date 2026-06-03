@@ -105,64 +105,6 @@ def extract_metadata_with_qwen(text: str) -> Dict[str, str]:
     }
 
 
-def is_good_context(context: str) -> bool:
-    """
-    Проверка на хороший контекст для формулы/предложения
-    """
-
-    context_lower = context.lower()
-
-    bad_words = [
-        "список литературы",
-        "литература",
-        "references",
-        "bibliography",
-        "оглавление",
-        "содержание"
-    ]
-    
-    math_words = [
-        "неравен",
-        "оцен",
-        "границ",
-        "верхн",
-        "нижн",
-        "теорем",
-        "лемм",
-        "доказ",
-        "следует",
-        "получаем",
-        "констант",
-        "функц"
-    ]
-
-    for bad_word in bad_words:
-        if bad_word in context_lower:
-            return False
-
-    if len(context.strip()) < 80:
-        return False
-
-    math_signs = [
-        "≤", "≥", "<=", ">=", "<", ">", "="
-    ]
-
-    signs_count = 0
-    for sign in math_signs:
-        if sign in context:
-            signs_count += 1
-
-    words_count = 0
-    for word in math_words:
-        if word in context_lower:
-            words_count += 1
-
-    if words_count >= 1 and signs_count >= 1:
-        return True
-
-    return False
-
-
 def extract_text_with_positions(pdf_path: str) -> Dict[str, Any]:
     """
     Извлечение текста из PDF
@@ -274,6 +216,64 @@ def extract_text_with_positions(pdf_path: str) -> Dict[str, Any]:
         result["error"] = str(e)
 
     return result
+
+
+def is_good_context(context: str) -> bool:
+    """
+    Проверка на хороший контекст для формулы/предложения
+    """
+
+    context_lower = context.lower()
+
+    bad_words = [
+        "список литературы",
+        "литература",
+        "references",
+        "bibliography",
+        "оглавление",
+        "содержание"
+    ]
+    
+    math_words = [
+        "неравен",
+        "оцен",
+        "границ",
+        "верхн",
+        "нижн",
+        "теорем",
+        "лемм",
+        "доказ",
+        "следует",
+        "получаем",
+        "констант",
+        "функц"
+    ]
+
+    for bad_word in bad_words:
+        if bad_word in context_lower:
+            return False
+
+    if len(context.strip()) < 80:
+        return False
+
+    math_signs = [
+        "≤", "≥", "<=", ">=", "<", ">", "="
+    ]
+
+    signs_count = 0
+    for sign in math_signs:
+        if sign in context:
+            signs_count += 1
+
+    words_count = 0
+    for word in math_words:
+        if word in context_lower:
+            words_count += 1
+
+    if words_count >= 1 and signs_count >= 1:
+        return True
+
+    return False
 
 
 def extract_sentences_with_keywords(
