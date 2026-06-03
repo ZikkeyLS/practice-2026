@@ -192,7 +192,6 @@ def extract_text_with_positions(pdf_path: str) -> Dict[str, Any]:
         first_pages_text = ""
 
         for page_num, page in enumerate(doc, 1):
-
             raw_text = page.get_text()
 
             if not raw_text:
