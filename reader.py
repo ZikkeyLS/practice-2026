@@ -207,15 +207,12 @@ def extract_text_with_positions(pdf_path: str) -> Dict[str, Any]:
             }
 
             cleaned_chars = []
-
             for char in raw_text:
                 if char == '\n':
                     cleaned_chars.append('\n')
                     global_pos += 1
-
                 elif ord(char) < 32 and char not in '\n\r\t':
                     continue
-
                 else:
                     cleaned_chars.append(char)
                     global_pos += 1
