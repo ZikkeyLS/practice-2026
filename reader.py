@@ -303,9 +303,7 @@ def extract_sentences_with_keywords(
     current_pos = 0
 
     for i, sentence in enumerate(sentences):
-
         sentence_clean = sentence.strip()
-
         if len(sentence_clean) < 20:
             current_pos += len(sentence) + 1
             continue
